@@ -3,10 +3,10 @@
 This repo will contain all the resources a beginner needs to start excelling in competitive programming.
 
 ### Contents-
-* [Essentials](The-essentials-that-every-competitive-programmer-should-have:)
-* [Technique](The-best-technique-to-prepare-for-any-major-contest-or-for-success-is-to-make-a-proper-schedule-and-follow-it.)
-* [Tools](Tools-for-Competitive-Programming)
-* [Speed](Speed)
+* [Essentials](#The-essentials-that-every-competitive-programmer-should-have)
+* [Technique](#The-best-technique-to-prepare-for-any-major-contest-or-for-success-is-to-make-a-proper-schedule-and-follow-it.)
+* [Tools](#Tools-for-Competitive-Programming)
+* [Speed](#Speed)
 
 <hr>
 
