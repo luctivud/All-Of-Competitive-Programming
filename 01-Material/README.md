@@ -57,9 +57,9 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 
 ## Maths
 
-#### Blogs :
-#### Vlogs :
-#### Problemset :
+* #### Blogs :
+* #### Vlogs :
+* #### Problemset :
 
 
 <br> <hr> <br>
@@ -67,9 +67,9 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
  
 ## Greedy
 
-#### Blogs :
-#### Vlogs :
-#### Problemset :
+* #### Blogs :
+* #### Vlogs :
+* #### Problemset :
 
 
 <br> <hr> <br>
@@ -77,9 +77,9 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
  
 ## Trees
 
-#### Blogs :
-#### Vlogs :
-#### Problemset :
+* #### Blogs :
+* #### Vlogs :
+* #### Problemset :
 
 
 <br> <hr> <br>
@@ -87,9 +87,9 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
  
 ## Graphs
 
-#### Blogs :
-#### Vlogs :
-#### Problemset :
+* #### Blogs :
+* #### Vlogs :
+* #### Problemset :
 
 
 <br> <hr> <br>
@@ -97,9 +97,9 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
  
 ## Dynamic Programming
 
-#### Blogs :
-#### Vlogs :
-#### Problemset :
+* #### Blogs :
+* #### Vlogs :
+* #### Problemset :
 
 
 <br> <hr> <br>
@@ -107,9 +107,9 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
  
 ## Other
 
-#### Blogs :
-#### Vlogs :
-#### Problemset :
+* #### Blogs :
+* #### Vlogs :
+* #### Problemset :
 
 <br> <hr> <br>
 

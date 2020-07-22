@@ -8,7 +8,7 @@ This repo will contain all the resources a beginner needs to start excelling in 
 * [Tools](#Tools-for-Competitive-Programming)
 * [Speed](#Speed)
 
-<hr>
+<br> <hr> <br>
 
 ### The essentials that every competitive programmer should have:
 
@@ -22,7 +22,7 @@ This repo will contain all the resources a beginner needs to start excelling in 
 
 5. Should NOT have a complaining nature. 
 
-<hr>
+<br> <hr> <br>
 
 ### The best technique to prepare for any major contest or for success is to make a proper schedule and follow it
 
@@ -44,7 +44,7 @@ This repo will contain all the resources a beginner needs to start excelling in 
 
 [Back to top](#All-Of-Competitive-Programming)
 
-<hr>
+<br> <hr> <br>
 
 ### Tools for Competitive Programming
 
@@ -68,7 +68,7 @@ These are the following tools which may be of great use:
 
 [Back to top](#All-Of-Competitive-Programming)
 
-<hr>
+<br> <hr> <br>
 
 ### Speed
 
@@ -84,10 +84,10 @@ This will greatly boost the confidence and enhance the logic building and typing
 
 [Back to top](#All-Of-Competitive-Programming)
 
-<hr> 
+
+<br> <hr> <br>
 
 
-This repo will keep on updating as new resources are found. 
+> This repo will keep on updating as new resources are found. 
 
-Note : I don't claim any of the works as mine. I have just curated them at one place.
-
+> Note : I don't claim any of the works as mine. I have just curated them at one place.
