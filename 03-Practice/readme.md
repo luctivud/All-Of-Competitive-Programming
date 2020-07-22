@@ -1,17 +1,19 @@
 # Practice Questions on different sites.
 
 ### The problems are categorized topicwise:
-* [Maths](Maths)
-* [Greedy](Greedy)
-* [Trees](Trees)
-* [Graphs](Graphs)
-* [Dynamic Programming](Dynamic-Programming)
-* [Other](Other)
+* [Maths](#Maths)
+* [Greedy](#Greedy)
+* [Trees](#Trees)
+* [Graphs](#Graphs)
+* [Dynamic Programming](#Dynamic-Programming)
+* [Other](#Other)
 
 
 ## Maths
 
 ## Greedy
+
+* 
 
 ## Trees
 
