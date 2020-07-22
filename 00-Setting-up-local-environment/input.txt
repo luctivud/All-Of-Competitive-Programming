@@ -1,0 +1,25 @@
+11312 UVA
+
+11392 UVA
+
+http://codeforces.com/contest/653/problem/E (6)
+
+http://codeforces.com/contest/769/problem/C 5 //FL:ODD/**** | bfs+greed NICE
+
+10968 UVA (3) //EASY + NICE (bfs withot <=2 nodes)
+
+http://codeforces.com/contest/796/problem/D (3) //NICE+EASY ... print visited in bfs (not par)
+
+10888 UVA (4) //VERY NICE — but not main technique ... ++ DP /or/ MCMF
+
+http://codeforces.com/contest/821/problem/D (5) //VERY NICE — Consider only points not GRID
+
+http://www.spoj.com/problems/DIGOKEYS/ (4) //Easy [Nice problem — weird statement]
+
+http://www.spoj.com/problems/SPIKES/ (3) //Easy bfs (# of 's' * 2)
+
+http://www.spoj.com/problems/MULTII/ (4) //VERY NICE: BFS over numbers (K*10+d)%N
+
+http://www.spoj.com/problems/ADV04F1/ (5) //VERY NICE: [imple] ~ N^4*BigConstant
+
+http://www.spoj.com/problems/INVESORT/ (5) //Big limit (really usefull :P)
