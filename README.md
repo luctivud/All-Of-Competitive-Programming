@@ -4,13 +4,13 @@ This repo will contain all the resources a beginner needs to start excelling in 
 
 ### Contents-
 * [Essentials](#The-essentials-that-every-competitive-programmer-should-have)
-* [Technique](#The-best-technique-to-prepare-for-any-major-contest-or-for-success-is-to-make-a-proper-schedule-and-follow-it.)
+* [Technique](#The-best-technique-to-prepare-for-any-major-contest-or-for-success-is-to-make-a-proper-schedule-and-follow-it)
 * [Tools](#Tools-for-Competitive-Programming)
 * [Speed](#Speed)
 
 <hr>
 
-#### The essentials that every competitive programmer should have:
+### The essentials that every competitive programmer should have:
 
 1. Set up CP environment on local machine. 
 
@@ -24,7 +24,7 @@ This repo will contain all the resources a beginner needs to start excelling in 
 
 <hr>
 
-#### The best technique to prepare for any major contest or for success is to make a proper schedule and follow it.
+### The best technique to prepare for any major contest or for success is to make a proper schedule and follow it
 
 * Habit of reading blogs / books / texts in the morning.
 
@@ -42,15 +42,50 @@ This repo will contain all the resources a beginner needs to start excelling in 
 
 * Having a Good Sleep.
 
+[Top](#All-Of-Competitive-Programming)
+
 <hr>
 
-#### Tools for Competitive Programming
+### Tools for Competitive Programming
 
 These are the following tools which may be of great use:
 
 * [CP Tracker](http://cptracker.herokuapp.com/) : A tool which lists the present and future cp contests from various sites.
 
 * [C List](https://clist.by/) : Similar to CP Tracker but contains as list.
+
+* [Codeforces Visualiser](https://cfviz.netlify.app/) : can track your progress on codeforces and can see the ratings of problems you re currently stressing on and your improvement. 
+
+* [Kenkooo Atcoder](https://kenkoooo.com/atcoder) : A visualisation tool for AtCoder.
+
+* [StopStalk](https://www.stopstalk.com/) : The best and complete analyser. It will maintain
+
+* [CodeDigger](http://codedigger.tech/practice/topicwise) :
+
+* [Lockout bot for discord](https://codeforces.com/blog/entry/78546) : 
+
+* Chrome extensions : There are a variety of extensions available on Chrome as well as Firefox which can be of great use inculcating the start of competitive programming. 
+
+[Top](#All-Of-Competitive-Programming)
+
+<hr>
+
+### Speed
+
+Speed plays a very important role in perfoming well during the contests. 
+
+For improving the speed, AtCoder is a great platform. Try attempting the problems and solving them in alloted time which is:
+
+* 1-2 minute for A & B.
+* Approx 5 minutes for C
+* Approx 10 - 15 minutes for D & E.
+
+This will greatly boost the confidence and enhance the logic building and typing speed, in general.
+
+[Top](#All-Of-Competitive-Programming)
+
+<hr> 
+
 
 This repo will keep on updating as new resources are found. 
 
