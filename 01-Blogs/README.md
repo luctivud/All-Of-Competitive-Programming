@@ -1,4 +1,6 @@
-# Books and Other Long Reading Materials :
+# Reading and Learning
+
+## Books and Other Long Reading Materials :
 
 * Check out [this](https://github.com/lnishan/awesome-competitive-programming#books-for-algorithms) section for a long list of books.
 
