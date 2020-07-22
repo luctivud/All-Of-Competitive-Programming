@@ -42,9 +42,9 @@ This repo will contain all the resources a beginner needs to start excelling in 
 
 * Having a Good Sleep.
 
-[Back to top](#All-Of-Competitive-Programming)
 
-<br> <hr> <br>
+
+<br> [Back to top](#All-Of-Competitive-Programming) <hr> <br>
 
 ### Tools for Competitive Programming
 
@@ -66,9 +66,9 @@ These are the following tools which may be of great use:
 
 * Chrome extensions : There are a variety of extensions available on Chrome as well as Firefox which can be of great use inculcating the start of competitive programming. 
 
-[Back to top](#All-Of-Competitive-Programming)
 
-<br> <hr> <br>
+
+<br> [Back to top](#All-Of-Competitive-Programming) <hr> <br>
 
 ### Speed
 
@@ -82,10 +82,10 @@ For improving the speed, AtCoder is a great platform. Try attempting the problem
 
 This will greatly boost the confidence and enhance the logic building and typing speed, in general.
 
-[Back to top](#All-Of-Competitive-Programming)
 
 
-<br> <hr> <br>
+
+<br> [Back to top](#All-Of-Competitive-Programming) <hr> <br>
 
 
 > This repo will keep on updating as new resources are found. 
