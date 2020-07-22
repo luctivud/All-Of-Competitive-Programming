@@ -56,7 +56,8 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 <br> <hr> <br>
 
 ## Starters
-    - [TopCoder - Introduction to Competitive Programming](https://www.topcoder.com/community/competitive-programming/tutorials/)
+
+- [TopCoder-Introduction to Competitive Programming](https://www.topcoder.com/community/competitive-programming/tutorials)
 
 <br> <hr> <br>
 
@@ -102,6 +103,11 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 * #### Problemset :
 
    - [international-open-olympiad-kpiopen-2013-round-1](https://codeforces.com/gym/100279/attachments/download/2025/20122013-international-open-olympiad-kpiopen-2013-round-1-en.pdf)
+
+   - [Codeforces comment with 100+ graph problems](https://codeforces.com/blog/entry/55219?#comment-390897)
+
+   - [LeetCode Graph Related Problems](https://leetcode.com/list/x1vj23fh/)
+
 
    #### IARCS
    - [Graphs](https://www.iarcs.org.in/inoi/online-study-material/topics/graphs.php)
@@ -157,7 +163,7 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
    - [https://codeforces.com/problemset/problem/322/E](https://codeforces.com/problemset/problem/322/E)
    - [https://codeforces.com/problemset/problem/592/D](https://codeforces.com/problemset/problem/592/D)
    - [https://codeforces.com/contest/456/problem/E](https://codeforces.com/contest/456/problem/E)
-
+   
 
    The above problems were extracted from [this leetcode article](https://leetcode.com/discuss/general-discussion/655708/graph-for-beginners-problems-pattern-sample-solutions). Thanks to the work of [wh0ami sir](https://leetcode.com/wh0ami/).
 
@@ -174,6 +180,7 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 * #### Blogs :
 * #### Vlogs :
 * #### Problemset :
+    - [100+ LeetCode problems on DP](https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions)
 
 
 <br> <hr> <br>
@@ -184,6 +191,8 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 * #### Blogs :
 * #### Vlogs :
 * #### Problemset :
+    - [20+ leetcode problems on Sliding Window](https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions)
+
 
 <br> <hr> <br>
 
