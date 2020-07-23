@@ -175,8 +175,11 @@ The problems are majorly categorized into following topics for now:
 ## Graphs
 
 * #### Tutorial :
+
     :page_facing_up: [CF-Center of graph](https://codeforces.com/blog/entry/17974) 
+
     :page_facing_up: [Longest Path Problem - Wikipedia](https://en.wikipedia.org/wiki/Longest_path_problem) 
+
     :page_facing_up: [Graph Diameter - Mathworld](https://mathworld.wolfram.com/GraphDiameter.html) 
 
 
@@ -265,19 +268,29 @@ The problems are majorly categorized into following topics for now:
 * #### Tutorial :
 
     :page_facing_up: [Hackerearth](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/) 
+
     :page_facing_up: [Codechef Tutorial and few problems](https://www.codechef.com/wiki/tutorial-dynamic-programming) 
+
     :page_facing_up: [TutorialsPoint Blog](https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm) 
+
     :movie_camera: [CS Dojo - Youtube](https://www.youtube.com/watch?v=vYquumk4nWw) 
+
     :movie_camera: [Aditya Verma - Youtube](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)  Check this one out.
+
     :movie_camera: [CodeN Code - youtube](https://www.youtube.com/watch?v=AfE1nZjG5ZM&list=PL2q4fbVm1Ik71hmKyay-GkU6J9GTXCe5g) 
+
     :page_facing_up: [Dynamic Programming Beginner's Course](https://discuss.codechef.com/t/dynamic-programming-beginners-course/70936) contains problems and video tutorials.
 
 * #### Problemset :
 
     - [ ] [100+ LeetCode problems - wh0ami](https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions)
+
     - [ ] [100+ codeforces problems - karansinghgit](https://github.com/karansinghgit/CodeForces-Ladders/blob/master/dynamicProgramming.md)
+
     - [ ] [1000+ problems on DP - A2OJ](http://a2oj.com/category?ID=33)
+
     - [ ] [Few other DP problems - A2OJ](https://a2oj.com/category?ID=758)
+
     - [ ] [AtCoder DP Contest](https://atcoder.jp/contests/dp/tasks)
 
 
