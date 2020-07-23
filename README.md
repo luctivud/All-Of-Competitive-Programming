@@ -54,13 +54,15 @@ The following practices should be kept in mind as these are also helpful :
 
 * Having a Good Sleep is always necessary to start the next day with zeal.
 
-* How much time should we spend on a problem ?
+<br>
 
-The answer depends from person to person and from problem to problem.
+* **How much time should we spend on a problem ?**
 
-Solving a problem on your own without taking any help from editorial is always a confidence booster but spending a lot of time on probably something you are not aware of yet is not upto the mark.
+    The answer depends from person to person and from problem to problem.
 
-In my opinion, you should never take help of any editorial if the problem is simply an implementation as editorials are useless in this case. The problem should be solved by yourself. Consider the editorial only if you're stuck at it and can't bear it anymore. However, this should not be made into habit. 
+    Solving a problem on your own without taking any help from editorial is always a confidence booster but spending a lot of time on probably something you are not aware of yet is not upto the mark.
+
+    In my opinion, you should never take help of any editorial if the problem is simply an implementation as editorials are useless in this case. The problem should be solved by yourself. Consider the editorial only if you're stuck at it and can't bear it anymore. However, this should not be made into habit. 
 
 
 
@@ -88,7 +90,11 @@ Check out the following tools, these may turn out to be of great use:
 
 * [CodeDigger](http://codedigger.tech/practice/topicwise) : Solve codeforces problems based on tags and ladders.
 
+* [Contest Mania](https://contestmania.web.app/) : Past as well as Upcoming contests in a list.
+
 * [Lockout bot for discord](https://codeforces.com/blog/entry/78546) : You can try this tool for competiting with your friend in a one on one contest simulation on a discord server.
+
+* [TLE - Discord Bot](https://github.com/cheran-senthil/TLE) : Another Discord bot centred around CP.
 
 * [Graph Visualizer](https://csacademy.com/app/graph_editor/) : Easily visualize graphs.
 

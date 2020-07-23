@@ -47,7 +47,9 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
  
 * [Awesome Competitive Programming by lnishan](https://github.com/lnishan/awesome-competitive-programming) : The encyclopedia of cp. It contains in-depth analysis as well as topic wise practice problems. Probably more than one can ask for.
 
-* [Competitive Coding Implementation by Ashishgup](https://github.com/Ashishgup1/Competitive-Coding) : Whenever you run into any problem, just check the implementation of Ashish Sir. His codes are easy to understand and beautifully formatted.
+* [Competitive Coding Implementation (C++) by Ashishgup](https://github.com/Ashishgup1/Competitive-Coding) : Whenever you run into any problem, just check the implementation of Ashish Sir. His codes are easy to understand and beautifully formatted.
+
+* [Competitive Coding Implementation (Python) by cheran-senthil](https://github.com/cheran-senthil/PyRival) : Python Oriented Library for Competitive Programming.
 
 * [OEIS](https://oeis.org/) : who doesn't love integer sequences? Well everyone should.
 
@@ -114,6 +116,8 @@ The problemset is divided into two broad categories based on beginner or interme
 
     - [A2OJ Ladders](https://a2oj.com/ladders)
 
+    - [Another A2OJ ladder](https://earthshakira.github.io/a2oj-clientside/server/Categories.html) : Mirror
+
     - [CodeForces-Ladders with updated problemset](https://github.com/karansinghgit/CodeForces-Ladders)
 
 
@@ -136,6 +140,9 @@ For Data Structures and Algorithms, consider:
 
 * [CP Algorithm](https://cp-algorithms.com/) : This online project is the English translation of a popular [russian site](http://e-maxx.ru/algo) containing descriptions of many algorithms and data structures especially popular in field of competitive programming and practice problems.
 
+* [Important Algorithms for Competitive Programming - Code of Geeks](https://codeofgeeks.com/important-algorithms-for-competitive-programming/)
+
+* [vplanetcoding](https://www.vplanetcoding.com/course2) : Check out all the free courses.
 
 <br> 
 
@@ -159,12 +166,11 @@ The problems are majorly categorized into following topics for now:
  
 ## Graphs
 
-* #### Blogs :
+* #### Tutorial :
     - [CF-Center of graph](https://codeforces.com/blog/entry/17974)
     - [Longest Path Problem - Wikipedia](https://en.wikipedia.org/wiki/Longest_path_problem)
     - [Graph Diameter - Mathworld](https://mathworld.wolfram.com/GraphDiameter.html)
 
-* #### Video Tutorials :
 
 * #### Problemset :
 
@@ -247,10 +253,21 @@ The problems are majorly categorized into following topics for now:
  
 ## Dynamic Programming
 
-* #### Blogs :
-* #### Video Tutorials :
+
+* #### Tutorial :
+
+    - [Hackerearth blog](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)
+    - [Codechef Tutorial and few problems](https://www.codechef.com/wiki/tutorial-dynamic-programming)
+    - [TutorialsPoint Blog](https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm)
+    - [CS Dojo - Youtube](https://www.youtube.com/watch?v=vYquumk4nWw)
+    - [Aditya Verma - Youtube](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) Check this one out.
+
 * #### Problemset :
-    - [100+ LeetCode problems on DP](https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions)
+
+    - [100+ LeetCode problems - wh0ami](https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions)
+    - [100+ codeforces problems - karansinghgit](https://github.com/karansinghgit/CodeForces-Ladders/blob/master/dynamicProgramming.md)
+    - [1000+ problems on DP - A2OJ](http://a2oj.com/category?ID=33)
+    - [Few other DP problems - A2OJ](https://a2oj.com/category?ID=758)
 
 
 
@@ -264,13 +281,27 @@ The problems are majorly categorized into following topics for now:
 
 ## Trees
 
-* #### Blogs :
-* #### Video Tutorials :
+* #### Tutorial :
+    - [Trees - hackerearth](https://www.hackerearth.com/practice/notes/trees/)
+    - [Fenwick Tree - gfg](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
+    - [Dynamic Programming on Trees - gfg](https://www.geeksforgeeks.org/dynamic-programming-trees-set-1/)
+    - [Dynamic Programming on Trees - Aditya Verma - Youtube](https://www.youtube.com/playlist?list=PL_z_8CaSLPWfxJPz2-YKqL9gXWdgrhvdn)
+
 * #### Problemset :
 
-
-
-
+    - [Vplanet](https://www.vplanetcoding.com/course3)
+    - [Binary and n-ary trees - Hackerearth](https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/)
+    - [BST - hackerearth](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/)
+    - [Heaps - hackerearth](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/)
+    - [GERALD2 - codechef](http://www.codechef.com/NOV13/problems/GERALD2)
+    - [GERALD07 - codechef](http://www.codechef.com/MARCH14/problems/GERALD07)
+    - [FBCHEF - codechef](http://www.codechef.com/APRIL14/problems/FBCHEF)
+    - [GERALD08 - codechef](http://www.codechef.com/APRIL14/problems/GERALD08)
+    - [MLCHEF - codechef](https://www.codechef.com/SEPT13/problems/MLCHEF)
+    - [200+ Problems on Trees - A2OJ](https://a2oj.com/category?ID=89)
+    - [150+ Problems on Segment Trees - A2OJ](https://a2oj.com/category?ID=25)
+    - [20+ problems on Balanced BST - A2OJ](https://a2oj.com/category?ID=14)
+    - [20+ problems on suffix array  A2OJ](https://a2oj.com/category?ID=44)
 
 <br> <hr> <br>
  
