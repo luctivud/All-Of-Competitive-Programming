@@ -1,10 +1,10 @@
 # All-Of-Competitive-Programming
 
-This repo will contain all the resources a beginner needs to start excelling in competitive programming.
+This repo contains all the resources a beginner needs to start competitive programming and an intermediate to excel in it. It is a curated blog of all other blogs that I've found informative while going through several posts for the past some time.
 
 ### Contents-
-* [Essentials](#The-essentials-that-every-competitive-programmer-should-have)
-* [Technique](#The-best-technique-to-prepare-for-any-major-contest-or-for-success-is-to-make-a-proper-schedule-and-follow-it)
+* [CP - Essentials](#The-essentials-that-every-competitive-programmer-should-have)
+* [Technique](#Technique)
 * [Tools](#Tools-for-Competitive-Programming)
 * [Speed](#Speed)
 
@@ -12,9 +12,9 @@ This repo will contain all the resources a beginner needs to start excelling in 
 
 ### The essentials that every competitive programmer should have:
 
-1. Set up CP environment on local machine. 
+1. Competitive Programming environment set up on their local machine. 
 
-2. CP Books. 
+2. CP Books to keep them on track.
 
 3. Habit of reading blogs. 
 
@@ -24,21 +24,33 @@ This repo will contain all the resources a beginner needs to start excelling in 
 
 <br> <hr> <br>
 
-### The best technique to prepare for any major contest or for success is to make a proper schedule and follow it
+### Technique
 
-* Habit of reading blogs / books / texts in the morning.
+The everyday schedule that one follows should be very balanced and should not leave a person exhausted in the end. The most appropriate time of reading is said to be in the morning itself and a practice which involves heavy mental exercise should be done at night.
 
-* Implementing everything that you have read at the same time. 
+The following schedule is optimal to be followed by a beginner to make it a second nature. However, it is not mandatory and one can follow a plan in which they feel most comfortable.
 
-* Elaborating the concepts on your own and thinking about the different ways any topic can be modified and then implementing the same.
+* Morning : Read blogs / books / texts.
 
-* Extensive practice on problems at the night.
+* Noon : Implement the concepts and solve related problems.
 
-* Reading and understanding other users solution.
+* Evening : Read blogs or watch video tutorials.
+
+* Night : Solve problems based on the concepts learnt.
+
+<br>
+
+The following practices should be kept in mind as these are also helpful :
+
+* Implementing the concepts after reading it. 
 
 * Reading Editorials even if you have solved the problem.
 
-* Helping Others in understanding the concepts you have learnt: This might seem like a waste of time but it really helps in clearing the concepts and solving others doubts make your concept crystal clear.
+* Reading and understanding other users' solution and implementing the same.
+
+* Elaborating the concepts on your own and thinking about the different ways any concept can be modified and then implementing the same.
+
+* Helping others in understanding the concepts you have learnt: This might seem like a waste of time but it really helps in clearing the concepts, and solving others' doubts make your concept crystal clear.
 
 * Having a Good Sleep.
 
@@ -48,21 +60,21 @@ This repo will contain all the resources a beginner needs to start excelling in 
 
 ### Tools for Competitive Programming
 
-These are the following tools which may be of great use:
+These are the following tools which may turn out to be of great use:
 
-* [CP Tracker](http://cptracker.herokuapp.com/) : A tool which lists the present and future cp contests from various sites.
+* [CP Tracker](http://cptracker.herokuapp.com/) : The current and future cp contests listed from various sites.
 
-* [C List](https://clist.by/) : Similar to CP Tracker but contains as list.
+* [C List](https://clist.by/) : Similar to CP Tracker but it contains them all in a single list.
 
-* [Codeforces Visualiser](https://cfviz.netlify.app/) : can track your progress on codeforces and can see the ratings of problems you re currently stressing on and your improvement. 
+* [StopStalk](https://www.stopstalk.com/) : A goto for analysing your daily performance and finding problems based on tags.
 
-* [Kenkooo Atcoder](https://kenkoooo.com/atcoder) : A visualisation tool for AtCoder.
+* [Codeforces Visualiser](https://cfviz.netlify.app/) : You can track your progress on codeforces and can see the ratings of problems you have currently solved and a complete package for your codeforces profile.
 
-* [StopStalk](https://www.stopstalk.com/) : The best and complete analyser. It will maintain
+* [Kenkooo Atcoder](https://kenkoooo.com/atcoder) : A visualisation tool for AtCoder, here you can solve problems from different contests, see its ratings and many more. It is basically a problemset for AtCoder. 
 
-* [CodeDigger](http://codedigger.tech/practice/topicwise) :
+* [CodeDigger](http://codedigger.tech/practice/topicwise) : Solve codeforces problems based on tags and ladders.
 
-* [Lockout bot for discord](https://codeforces.com/blog/entry/78546) : 
+* [Lockout bot for discord](https://codeforces.com/blog/entry/78546) : You can try this tool for competiting with your friend in a one on one contest simulation on a discord server.
 
 * Chrome extensions : There are a variety of extensions available on Chrome as well as Firefox which can be of great use inculcating the start of competitive programming. 
 
@@ -72,9 +84,9 @@ These are the following tools which may be of great use:
 
 ### Speed
 
-Speed plays a very important role in perfoming well during the contests. 
+Speed plays a very important role in perfoming well during the live contests. 
 
-For improving the speed, AtCoder is a great platform. Try attempting the problems and solving them in alloted time which is:
+For improving the speed, [AtCoder](https://atcoder.jp/) is a great platform. Try attempting the problems and solving them in alloted time which is:
 
 * 1-2 minute for A & B.
 * Approx 5 minutes for C
@@ -82,7 +94,11 @@ For improving the speed, AtCoder is a great platform. Try attempting the problem
 
 This will greatly boost the confidence and enhance the logic building and typing speed, in general.
 
-
+Virtual Contests can also help in speed as these are simulation of real contest. You can give virtual contests by :
+- Giving a virtual contest on codeforces.
+- Creating a mashup on codeforces.
+- Using [VJudge](https://vjudge.net/) to create a contest of your own from past problems of different OJs.
+- Using [Light OJ](http://lightoj.com/login_main.php?url=index.php) to simulate the same.
 
 
 <br> [Back to top](#All-Of-Competitive-Programming) <hr> <br>
@@ -90,4 +106,4 @@ This will greatly boost the confidence and enhance the logic building and typing
 
 > This repo will keep on updating as new resources are found. 
 
-> Note : I don't claim any of the works as mine. I have just curated them at one place.
+> Note : I don't claim any of the works to be mine. I have just curated them all at one place.
