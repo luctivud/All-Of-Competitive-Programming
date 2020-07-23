@@ -4,7 +4,7 @@ This repo contains all the resources a beginner needs to start competitive progr
 
 
 
-### Contents-
+#### Contents
 
 * [CP - Essentials](#The-essentials-that-every-competitive-programmer-should-have)
 * [Technique](#Technique)
