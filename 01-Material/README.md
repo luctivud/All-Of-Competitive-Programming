@@ -83,26 +83,26 @@ The problemset is divided into two broad categories based on beginner or interme
 
 * **Start :**
 
-    - [TopCoder-Introduction to Competitive Programming](https://www.topcoder.com/community/competitive-programming/tutorials) :page_facing_up:
+    :page_facing_up: [TopCoder-Introduction to Competitive Programming](https://www.topcoder.com/community/competitive-programming/tutorials) 
 
-    - [Starting CP - Errichto - Youtube](https://www.youtube.com/watch?v=xAeiXy8-9Y8) :movie_camera:
+    :movie_camera: [Starting CP - Errichto - Youtube](https://www.youtube.com/watch?v=xAeiXy8-9Y8) 
 
-    - [Codingblocks](https://blog.codingblocks.com/2019/start-with-competitive-programming/)  :page_facing_up:
+    :page_facing_up: [Codingblocks](https://blog.codingblocks.com/2019/start-with-competitive-programming/)  
 
-    - [How to start CC - cf](https://codeforces.com/blog/entry/49157)  :page_facing_up:
+    :page_facing_up: [How to start CC - cf](https://codeforces.com/blog/entry/49157)  
 
 
 * **Train :**
 
-    - [Must do Maths in CP - Gfg](https://www.geeksforgeeks.org/math-in-competitive-programming/?ref=leftbar-rightbar) :page_facing_up:
+    :page_facing_up: [Must do Maths in CP - Gfg](https://www.geeksforgeeks.org/math-in-competitive-programming/?ref=leftbar-rightbar) 
 
-    - [Hackerearth - Codemonk](https://www.hackerearth.com/blog/developers/hackerearth-codemonk-v2-0/) :page_facing_up:
+    :page_facing_up: [Hackerearth - Codemonk](https://www.hackerearth.com/blog/developers/hackerearth-codemonk-v2-0/) 
 
-    - [Training Roadmap for newcomers - cf](https://codeforces.com/blog/entry/65133) :page_facing_up:
+    :page_facing_up: [Training Roadmap for newcomers - cf](https://codeforces.com/blog/entry/65133) 
 
-    - [ ] [Arabic CP](https://github.com/mostafa-saad/ArabicCompetitiveProgramming/) and the [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643) as well as [Supervision Template](https://docs.google.com/spreadsheets/d/1QUegTqKnVtdejCwttYFXHeOQs6Q5nmAT77sxWh3qYMc/edit#gid=2139527441).
+    - [x] [Arabic CP](https://github.com/mostafa-saad/ArabicCompetitiveProgramming/) and the [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643) as well as [Supervision Template](https://docs.google.com/spreadsheets/d/1QUegTqKnVtdejCwttYFXHeOQs6Q5nmAT77sxWh3qYMc/edit#gid=2139527441).
 
-    - [ ] [20+ leetcode problems on Sliding Window](https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions)
+    - [x] [20+ leetcode problems on Sliding Window](https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions)
 
 
 
@@ -123,9 +123,9 @@ The problemset is divided into two broad categories based on beginner or interme
 
 * **Bonus :**
 
-    - [Simple Trick to detect integer overflow - codechef discuss](https://discuss.codechef.com/t/simple-trick-to-detect-integer-overflow-c-c/54373) :page_facing_up:
+    :page_facing_up: [Simple Trick to detect integer overflow - codechef discuss](https://discuss.codechef.com/t/simple-trick-to-detect-integer-overflow-c-c/54373) 
 
-    - [Catching silly mistakes with GCC](https://codeforces.com/blog/entry/15547) :page_facing_up:
+    :page_facing_up: [Catching silly mistakes with GCC](https://codeforces.com/blog/entry/15547) 
 
 
 <br>
@@ -136,13 +136,13 @@ Solving the beginner level problems from the above resources will be enough to g
 
 For Data Structures and Algorithms, consider: 
 
-* [Codechef Blog on Data Structures and Algorithms with 100+ Problems and Tutorial](https://discuss.codechef.com/t/data-structures-and-algorithms/6599) :page_facing_up: : This blog has tutorials and practice problems for most of the data structures and algorithms that one can come across.
+- [ ] [Codechef Blog on Data Structures and Algorithms with 100+ Problems and Tutorial](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)  : This blog has tutorials and practice problems for most of the data structures and algorithms that one can come across.
 
-* [CP Algorithm](https://cp-algorithms.com/) :page_facing_up: : This online project is the English translation of a popular [russian site](http://e-maxx.ru/algo) containing descriptions of many algorithms and data structures especially popular in field of competitive programming and practice problems.
+:page_facing_up: [CP Algorithm](https://cp-algorithms.com/)  : This online project is the English translation of a popular [russian site](http://e-maxx.ru/algo) containing descriptions of many algorithms and data structures especially popular in field of competitive programming and practice problems.
 
-- [Important Algorithms for Competitive Programming - Code of Geeks](https://codeofgeeks.com/important-algorithms-for-competitive-programming/) :page_facing_up:
+:page_facing_up: [Important Algorithms for Competitive Programming - Code of Geeks](https://codeofgeeks.com/important-algorithms-for-competitive-programming/) 
 
-* [vplanetcoding](https://www.vplanetcoding.com/course2) :page_facing_up: : Check out all the free courses.
+:page_facing_up: [vplanetcoding](https://www.vplanetcoding.com/course2)  : Check out all the free courses.
 
 - [ ] [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643) & [CSES Prolemset](https://cses.fi/problemset/) - (Again!)
 
@@ -169,9 +169,9 @@ The problems are majorly categorized into following topics for now:
 ## Graphs
 
 * #### Tutorial :
-    - [CF-Center of graph](https://codeforces.com/blog/entry/17974) :page_facing_up:
-    - [Longest Path Problem - Wikipedia](https://en.wikipedia.org/wiki/Longest_path_problem) :page_facing_up:
-    - [Graph Diameter - Mathworld](https://mathworld.wolfram.com/GraphDiameter.html) :page_facing_up:
+    :page_facing_up: [CF-Center of graph](https://codeforces.com/blog/entry/17974) 
+    :page_facing_up: [Longest Path Problem - Wikipedia](https://en.wikipedia.org/wiki/Longest_path_problem) 
+    :page_facing_up: [Graph Diameter - Mathworld](https://mathworld.wolfram.com/GraphDiameter.html) 
 
 
 * #### Problemset :
@@ -258,12 +258,12 @@ The problems are majorly categorized into following topics for now:
 
 * #### Tutorial :
 
-    - [Hackerearth](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/) :page_facing_up:
-    - [Codechef Tutorial and few problems](https://www.codechef.com/wiki/tutorial-dynamic-programming) :page_facing_up:
-    - [TutorialsPoint Blog](https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm) :page_facing_up:
-    - [CS Dojo - Youtube](https://www.youtube.com/watch?v=vYquumk4nWw) :movie_camera:
-    - [Aditya Verma - Youtube](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) :movie_camera: Check this one out.
-    - [CodeN Code - youtube](https://www.youtube.com/watch?v=AfE1nZjG5ZM&list=PL2q4fbVm1Ik71hmKyay-GkU6J9GTXCe5g) :movie_camera:
+    :page_facing_up: [Hackerearth](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/) 
+    :page_facing_up: [Codechef Tutorial and few problems](https://www.codechef.com/wiki/tutorial-dynamic-programming) 
+    :page_facing_up: [TutorialsPoint Blog](https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm) 
+    :movie_camera: [CS Dojo - Youtube](https://www.youtube.com/watch?v=vYquumk4nWw) 
+    :movie_camera: [Aditya Verma - Youtube](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)  Check this one out.
+    :movie_camera: [CodeN Code - youtube](https://www.youtube.com/watch?v=AfE1nZjG5ZM&list=PL2q4fbVm1Ik71hmKyay-GkU6J9GTXCe5g) 
 
 * #### Problemset :
 
@@ -285,10 +285,10 @@ The problems are majorly categorized into following topics for now:
 ## Trees
 
 * #### Tutorial :
-    - [Trees - hackerearth](https://www.hackerearth.com/practice/notes/trees/) :page_facing_up:
-    - [Fenwick Tree - gfg](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/) :page_facing_up:
-    - [Dynamic Programming on Trees - gfg](https://www.geeksforgeeks.org/dynamic-programming-trees-set-1/) :page_facing_up:
-    - [Dynamic Programming on Trees - Aditya Verma - Youtube](https://www.youtube.com/playlist?list=PL_z_8CaSLPWfxJPz2-YKqL9gXWdgrhvdn) :movie_camera:
+    :page_facing_up: [Trees - hackerearth](https://www.hackerearth.com/practice/notes/trees/) 
+    :page_facing_up: [Fenwick Tree - gfg](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/) 
+    :page_facing_up: [Dynamic Programming on Trees - gfg](https://www.geeksforgeeks.org/dynamic-programming-trees-set-1/) 
+    :movie_camera: [Dynamic Programming on Trees - Aditya Verma - Youtube](https://www.youtube.com/playlist?list=PL_z_8CaSLPWfxJPz2-YKqL9gXWdgrhvdn) 
 
 * #### Problemset :
 
@@ -315,9 +315,9 @@ The problems are majorly categorized into following topics for now:
  
 ## Other
 
-* [Matrix Exponentiation cf Blog](https://codeforces.com/blog/entry/67776) :page_facing_up:
-* [Matrix Expo - gfg](https://www.geeksforgeeks.org/matrix-exponentiation/) :page_facing_up:
-* [Matrix Expo - Errichto - Youtube](https://www.youtube.com/watch?v=eMXNWcbw75E) :movie_camera:
+:page_facing_up: [Matrix Exponentiation cf Blog](https://codeforces.com/blog/entry/67776) 
+:page_facing_up: [Matrix Expo - gfg](https://www.geeksforgeeks.org/matrix-exponentiation/) 
+:movie_camera: [Matrix Expo - Errichto - Youtube](https://www.youtube.com/watch?v=eMXNWcbw75E) 
 - [ ] [Matrix Expo - Problems - Mashup](https://codeforces.com/gym/102644)
 
 
