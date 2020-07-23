@@ -18,6 +18,7 @@ This repo contains all the resources a beginner needs to start competitive progr
 
 
 ### The essentials that every competitive programmer should have:
+<br>
 
 1. Competitive Programming environment set up on their local machine. 
 
@@ -36,7 +37,7 @@ This repo contains all the resources a beginner needs to start competitive progr
 
 
 ### Technique
-
+<br>
 
 The everyday schedule that one follows should be very balanced and should not leave a person exhausted in the end. The most appropriate time of reading is said to be in the morning itself and a practice which involves heavy mental exercise should be done at night.
 
@@ -91,7 +92,7 @@ The following practices should be kept in mind as these are also helpful :
 
 
 ### Tools for Competitive Programming
-
+<br>
 
 Check out the following tools, these may turn out to be of great use:
 
@@ -125,7 +126,7 @@ Check out the following tools, these may turn out to be of great use:
 
 
 ### Speed
-
+<br>
 
 
 Speed plays a very important role in perfoming well during the live contests. 
