@@ -85,7 +85,7 @@ The problemset is divided into two broad categories based on beginner or interme
 
     - [TopCoder-Introduction to Competitive Programming](https://www.topcoder.com/community/competitive-programming/tutorials) :page_facing_up:
 
-    - [Starting CP - Errichto - Youtube](https://www.youtube.com/watch?v=xAeiXy8-9Y8)
+    - [Starting CP - Errichto - Youtube](https://www.youtube.com/watch?v=xAeiXy8-9Y8) :movie_camera:
 
     - [Codingblocks](https://blog.codingblocks.com/2019/start-with-competitive-programming/)  :page_facing_up:
 
@@ -261,9 +261,9 @@ The problems are majorly categorized into following topics for now:
     - [Hackerearth](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/) :page_facing_up:
     - [Codechef Tutorial and few problems](https://www.codechef.com/wiki/tutorial-dynamic-programming) :page_facing_up:
     - [TutorialsPoint Blog](https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm) :page_facing_up:
-    - [CS Dojo - Youtube](https://www.youtube.com/watch?v=vYquumk4nWw)
-    - [Aditya Verma - Youtube](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) Check this one out.
-    - [CodeN Code - youtube](https://www.youtube.com/watch?v=AfE1nZjG5ZM&list=PL2q4fbVm1Ik71hmKyay-GkU6J9GTXCe5g)
+    - [CS Dojo - Youtube](https://www.youtube.com/watch?v=vYquumk4nWw) :movie_camera:
+    - [Aditya Verma - Youtube](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) :movie_camera: Check this one out.
+    - [CodeN Code - youtube](https://www.youtube.com/watch?v=AfE1nZjG5ZM&list=PL2q4fbVm1Ik71hmKyay-GkU6J9GTXCe5g) :movie_camera:
 
 * #### Problemset :
 
@@ -288,7 +288,7 @@ The problems are majorly categorized into following topics for now:
     - [Trees - hackerearth](https://www.hackerearth.com/practice/notes/trees/) :page_facing_up:
     - [Fenwick Tree - gfg](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/) :page_facing_up:
     - [Dynamic Programming on Trees - gfg](https://www.geeksforgeeks.org/dynamic-programming-trees-set-1/) :page_facing_up:
-    - [Dynamic Programming on Trees - Aditya Verma - Youtube](https://www.youtube.com/playlist?list=PL_z_8CaSLPWfxJPz2-YKqL9gXWdgrhvdn)
+    - [Dynamic Programming on Trees - Aditya Verma - Youtube](https://www.youtube.com/playlist?list=PL_z_8CaSLPWfxJPz2-YKqL9gXWdgrhvdn) :movie_camera:
 
 * #### Problemset :
 
@@ -317,7 +317,7 @@ The problems are majorly categorized into following topics for now:
 
 * [Matrix Exponentiation cf Blog](https://codeforces.com/blog/entry/67776) :page_facing_up:
 * [Matrix Expo - gfg](https://www.geeksforgeeks.org/matrix-exponentiation/) :page_facing_up:
-* [Matrix Expo - Errichto - Youtube](https://www.youtube.com/watch?v=eMXNWcbw75E)
+* [Matrix Expo - Errichto - Youtube](https://www.youtube.com/watch?v=eMXNWcbw75E) :movie_camera:
 - [ ] [Matrix Expo - Problems - Mashup](https://codeforces.com/gym/102644)
 
 
