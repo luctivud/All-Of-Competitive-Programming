@@ -65,7 +65,7 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 
 ## Problemset
 
-The problems are majorly categorized into following topics for now:
+The problemset is divided into two broad categories based on beginner or intermediate level of knowledge. 
 
 * [Beginners](#Beginners)
 
@@ -75,6 +75,8 @@ The problems are majorly categorized into following topics for now:
 <br> <hr> <br>
 
 ### Beginners
+
+<br>
 
 
 * **Start :**
@@ -104,7 +106,9 @@ The problems are majorly categorized into following topics for now:
 
 * **Solve :**
 
-    #### Ladders :
+    It is adviced to solve beginner level problems with lower rating first and then jump to higher ratings when you start feeling comfortable. 
+
+    Do not copy paste solutions directly from editorial without implementing on your own.
 
     - [CSES Problemset](https://codeforces.com/blog/entry/15547)
 
@@ -120,7 +124,7 @@ The problems are majorly categorized into following topics for now:
     - [Catching silly mistakes with GCC](https://codeforces.com/blog/entry/15547)
 
 
-
+<br>
 
 ### Intermediate
 
@@ -133,8 +137,11 @@ For Data Structures and Algorithms, consider:
 * [CP Algorithm](https://cp-algorithms.com/) : This online project is the English translation of a popular [russian site](http://e-maxx.ru/algo) containing descriptions of many algorithms and data structures especially popular in field of competitive programming and practice problems.
 
 
+<br> 
 
 **Content**
+
+The problems are majorly categorized into following topics for now:
 
 * [Graphs](#Graphs)
 
@@ -168,11 +175,11 @@ For Data Structures and Algorithms, consider:
    - [LeetCode Graph Related Problems](https://leetcode.com/list/x1vj23fh/)
 
 
-   #### IARCS
+   **IARCS**
    - [Graphs](https://www.iarcs.org.in/inoi/online-study-material/topics/graphs.php)
    - [Advanced Graph Algo](https://www.iarcs.org.in/inoi/online-study-material/topics/advanced-graph-algorithms.php)
 
-   #### Union Find
+   **Union Find**
    - [leetcode : friend-circle](https://leetcode.com/problems/friend-circles/)
    - [leetcode : redundant-connection](https://leetcode.com/problems/redundant-connection/)
    - [leetcode : most-stones-removed-with-same-row-or-column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
@@ -180,20 +187,20 @@ For Data Structures and Algorithms, consider:
    - [leetcode : satisfiability-of-equality-equation](https://leetcode.com/problems/satisfiability-of-equality-equations/)
    - [leetcode : accounts-merge](https://leetcode.com/problems/accounts-merge/)
 
-   #### DFS - Basic 
+   **DFS - Basic**
    - [leetcode : surrounded-region](https://leetcode.com/problems/surrounded-regions/)
    - [leetcode : number-of-enclave](https://leetcode.com/problems/number-of-enclaves/)
    - [leetcode : time-needed-to-inform-all-employee](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
    - [leetcode : find-eventual-safe-state](https://leetcode.com/problems/find-eventual-safe-states/)
 
-   #### Island Problems
+   **Island Problems**
    - [leetcode : number-of-closed-island](https://leetcode.com/problems/number-of-closed-islands/)
    - [leetcode : number-of-island](https://leetcode.com/problems/number-of-islands/)
    - [leetcode : keys-and-room](https://leetcode.com/problems/keys-and-rooms/)
    - [leetcode : max-area-of-island](https://leetcode.com/problems/max-area-of-island/)
    - [leetcode : flood-fill](https://leetcode.com/problems/flood-fill/)
 
-   #### BFS
+   **BFS**
    - [http://codeforces.com/contest/653/problem/E](http://codeforces.com/contest/653/problem/E)
    - [https://codeforces.com/contest/769/problem/C](https://codeforces.com/contest/769/problem/C)
    - [https://codeforces.com/contest/796/problem/D](https://codeforces.com/contest/796/problem/D)
@@ -208,16 +215,16 @@ For Data Structures and Algorithms, consider:
    - [leetcode : rotting-orange](https://leetcode.com/problems/rotting-oranges/)
    - [leetcode : shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 
-   #### Graph Coloring
+   **Graph Coloring**
    - [leetcode : possible-bipartition](https://leetcode.com/problems/possible-bipartition/)
    - [leetcode : is-graph-bipartite](https://leetcode.com/problems/is-graph-bipartite/)
 
-   #### Topological Sort
+   **Topological Sort**
    - [leetcode : course-schedule](https://leetcode.com/problems/course-schedule/)
    - [leetcode : course-schedule-ii](https://leetcode.com/problems/course-schedule-ii/)
    - [codeforces : 510C-Fox and names](https://codeforces.com/contest/510/problem/C)
 
-   #### Other
+   **Other**
    - [https://dmoj.ca/problem/tle16c4p4](https://dmoj.ca/problem/tle16c4p4)
    - [https://codeforces.com/problemset/problem/322/E](https://codeforces.com/problemset/problem/322/E)
    - [https://codeforces.com/problemset/problem/592/D](https://codeforces.com/problemset/problem/592/D)
@@ -226,7 +233,7 @@ For Data Structures and Algorithms, consider:
 
    The above problems were extracted from [this leetcode article](https://leetcode.com/discuss/general-discussion/655708/graph-for-beginners-problems-pattern-sample-solutions). Thanks to the work of [wh0ami sir](https://leetcode.com/wh0ami/).
 
-   
+
 
 
 
@@ -274,10 +281,11 @@ For Data Structures and Algorithms, consider:
  
 ## Other
 
-* #### Blogs :
-   
-* #### Video Tutorials :
-* #### Problemset :
+* [Matrix Exponentiation cf Blog](https://codeforces.com/blog/entry/67776)
+* [Matrix Expo - gfg](https://www.geeksforgeeks.org/matrix-exponentiation/)
+* [Matrix Expo - Errichto - Youtube](https://www.youtube.com/watch?v=eMXNWcbw75E)
+* [Matrix Expo - Problems - Mashup](https://codeforces.com/gym/102644)
+
 
 
 
