@@ -9,7 +9,6 @@ Many of the seniors as well good competitive coders advice to not waste any mone
 
 
 #### Content
-<br>
 
 * [Books](#books)
 
@@ -98,7 +97,7 @@ The problemset is divided into two broad categories based on beginner or interme
     :page_facing_up: [Codingblocks](https://blog.codingblocks.com/2019/start-with-competitive-programming/)  
 
     :page_facing_up: [How to start CC - cf](https://codeforces.com/blog/entry/49157)  
-
+<br>
 
 * **Train :**
 
@@ -111,7 +110,7 @@ The problemset is divided into two broad categories based on beginner or interme
     - [ ] [Arabic CP](https://github.com/mostafa-saad/ArabicCompetitiveProgramming/) and the [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643) as well as [Supervision Template](https://docs.google.com/spreadsheets/d/1QUegTqKnVtdejCwttYFXHeOQs6Q5nmAT77sxWh3qYMc/edit#gid=2139527441).
 
     - [ ] [20+ leetcode problems on Sliding Window](https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions)
-
+<br>
 
 
 * **Solve :**
@@ -127,7 +126,7 @@ The problemset is divided into two broad categories based on beginner or interme
     - [ ] [Another A2OJ ladder](https://earthshakira.github.io/a2oj-clientside/server/Categories.html) : Mirror
 
     - [ ] [CodeForces-Ladders with updated problemset](https://github.com/karansinghgit/CodeForces-Ladders)
-
+<br>
 
 * **Bonus :**
 
