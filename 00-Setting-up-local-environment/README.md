@@ -8,9 +8,12 @@
 
 - [Snippets](#Snippets)
 
+
 <br> <hr> <br>
 
+
 ## Benefits
+
 
 #### It is always a good practice to set up your coding environment right on your pc as :
 
@@ -24,7 +27,11 @@
 
 * Less chances of your code getting leaked.
 
+
+
 <br> <hr> <br>
+
+
 
 ## Setting up env:
 

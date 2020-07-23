@@ -2,13 +2,19 @@
 
 This repo contains all the resources a beginner needs to start competitive programming and an intermediate to excel in it. It is a curated blog of all other blogs that I've found informative while going through several posts for the past some time.
 
+
+
 ### Contents-
 * [CP - Essentials](#The-essentials-that-every-competitive-programmer-should-have)
 * [Technique](#Technique)
 * [Tools](#Tools-for-Competitive-Programming)
 * [Speed](#Speed)
 
+
+
 <br> <hr> <br>
+
+
 
 ### The essentials that every competitive programmer should have:
 
@@ -22,7 +28,11 @@ This repo contains all the resources a beginner needs to start competitive progr
 
 5. Should NOT have a complaining nature. 
 
+
+
 <br> <hr> <br>
+
+
 
 ### Technique
 
@@ -72,7 +82,11 @@ The following practices should be kept in mind as these are also helpful :
 
 
 
+
 <br> [Back to top](#All-Of-Competitive-Programming) <hr> <br>
+
+
+
 
 ### Tools for Competitive Programming
 
@@ -82,13 +96,13 @@ Check out the following tools, these may turn out to be of great use:
 
 * [C List](https://clist.by/) : Similar to CP Tracker but it contains them all in a single list.
 
-- [ ] [StopStalk](https://www.stopstalk.com/) : A goto for analysing your daily performance and finding problems based on tags.
+- [StopStalk](https://www.stopstalk.com/) : A goto for analysing your daily performance and finding problems based on tags.
 
 * [Codeforces Visualiser](https://cfviz.netlify.app/) : You can track your progress on codeforces and can see the ratings of problems you have currently solved and a complete package for your codeforces profile.
 
-- [ ] [Kenkooo Atcoder](https://kenkoooo.com/atcoder) : A visualisation tool for AtCoder, here you can solve problems from different contests, see its ratings and many more. It is basically a problemset for AtCoder. 
+- [Kenkooo Atcoder](https://kenkoooo.com/atcoder) : A visualisation tool for AtCoder, here you can solve problems from different contests, see its ratings and many more. It is basically a problemset for AtCoder. 
 
-- [ ] [CodeDigger](http://codedigger.tech/practice/topicwise) : Solve codeforces problems based on tags and ladders.
+- [CodeDigger](http://codedigger.tech/practice/topicwise) : Solve codeforces problems based on tags and ladders.
 
 * [Contest Mania](https://contestmania.web.app/) : Past as well as Upcoming contests in a list.
 
@@ -103,6 +117,9 @@ Check out the following tools, these may turn out to be of great use:
 
 
 <br> [Back to top](#All-Of-Competitive-Programming) <hr> <br>
+
+
+
 
 ### Speed
 
@@ -123,7 +140,10 @@ Virtual Contests can also help in speed as these are simulation of real contest.
 - Using [Light OJ](http://lightoj.com/login_main.php?url=index.php) to simulate the same.
 
 
+
 <br> [Back to top](#All-Of-Competitive-Programming) <hr> <br>
+
+
 
 
 > You can now [set-up your working environment on your pc](https://github.com/luctivud/All-Of-Competitive-Programming/tree/master/00-Setting-up-local-environment) or move directly to the [CP Materials](https://github.com/luctivud/All-Of-Competitive-Programming/tree/master/01-Material).

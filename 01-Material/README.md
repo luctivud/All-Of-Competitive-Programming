@@ -8,7 +8,7 @@ Many of the seniors as well good competitive coders advice to not waste any mone
 
 
 
-## Content :
+#### Content :
 
 * [Books](#books)
 
@@ -74,7 +74,11 @@ The problemset is divided into two broad categories based on beginner or interme
 * [Intermediate](#intermediate)
 
 
+
 <br> [Back To Top](#cp-material) <hr> <br>
+
+
+
 
 ### Beginners
 
@@ -154,6 +158,8 @@ For Data Structures and Algorithms, consider:
 
 <br> 
 
+
+
 **Content**
 
 The problems are majorly categorized into following topics for now:
@@ -171,6 +177,8 @@ The problems are majorly categorized into following topics for now:
 
 <br> [Back To Problemset](#problemset) <hr> <br>
  
+
+
  
 ## Graphs
 
@@ -342,6 +350,8 @@ The problems are majorly categorized into following topics for now:
     - [ ] [20+ problems on Balanced BST - A2OJ](https://a2oj.com/category?ID=14)
 
     - [ ] [20+ problems on suffix array  A2OJ](https://a2oj.com/category?ID=44)
+
+
 
 
 <br> [Back To Problemset](#problemset) <hr> <br>
