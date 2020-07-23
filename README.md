@@ -11,10 +11,11 @@ This repo contains all the resources a beginner needs to start competitive progr
 * [Tools](#Tools-for-Competitive-Programming)
 * [Speed](#Speed)
 
+<br> 
 
+> <kbd>Skip</kbd> to <kbd>[setting-up your working environment on your pc](https://github.com/luctivud/All-Of-Competitive-Programming/tree/master/00-Setting-up-local-environment)</kbd> or  <kbd>[CP Materials](https://github.com/luctivud/All-Of-Competitive-Programming/tree/master/01-Material)</kbd>.
 
-<br> <hr> <br>
-
+<hr> <br>
 
 
 ### The essentials that every competitive programmer should have:
