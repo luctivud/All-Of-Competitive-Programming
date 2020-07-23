@@ -58,7 +58,7 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 
 
 
-<br> [Back To Top](#cp-material)<hr> <br>
+<br> [Back To Top](#cp-material) <hr> <br>
 
 
 
@@ -74,7 +74,7 @@ The problemset is divided into two broad categories based on beginner or interme
 * [Intermediate](#intermediate)
 
 
-<br> <hr> <br>
+<br> [Back To Top](#cp-material) <hr> <br>
 
 ### Beginners
 
@@ -100,9 +100,9 @@ The problemset is divided into two broad categories based on beginner or interme
 
     :page_facing_up: [Training Roadmap for newcomers - cf](https://codeforces.com/blog/entry/65133) 
 
-    - [x] [Arabic CP](https://github.com/mostafa-saad/ArabicCompetitiveProgramming/) and the [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643) as well as [Supervision Template](https://docs.google.com/spreadsheets/d/1QUegTqKnVtdejCwttYFXHeOQs6Q5nmAT77sxWh3qYMc/edit#gid=2139527441).
+    - [ ] [Arabic CP](https://github.com/mostafa-saad/ArabicCompetitiveProgramming/) and the [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643) as well as [Supervision Template](https://docs.google.com/spreadsheets/d/1QUegTqKnVtdejCwttYFXHeOQs6Q5nmAT77sxWh3qYMc/edit#gid=2139527441).
 
-    - [x] [20+ leetcode problems on Sliding Window](https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions)
+    - [ ] [20+ leetcode problems on Sliding Window](https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions)
 
 
 
@@ -128,7 +128,7 @@ The problemset is divided into two broad categories based on beginner or interme
     :page_facing_up: [Catching silly mistakes with GCC](https://codeforces.com/blog/entry/15547) 
 
 
-<br>
+<br> [Back To Problemset](#problemset) <hr> <br>
 
 ### Intermediate
 
@@ -163,7 +163,7 @@ The problems are majorly categorized into following topics for now:
 
 
 
-<br> <hr> <br>
+<br> [Back To Problemset](#problemset) <hr> <br>
  
  
 ## Graphs
@@ -246,7 +246,7 @@ The problems are majorly categorized into following topics for now:
 
 
 
-<br> <hr> <br>
+<br> [Back To Problemset](#problemset) <hr> <br>
  
 
 
@@ -264,6 +264,7 @@ The problems are majorly categorized into following topics for now:
     :movie_camera: [CS Dojo - Youtube](https://www.youtube.com/watch?v=vYquumk4nWw) 
     :movie_camera: [Aditya Verma - Youtube](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)  Check this one out.
     :movie_camera: [CodeN Code - youtube](https://www.youtube.com/watch?v=AfE1nZjG5ZM&list=PL2q4fbVm1Ik71hmKyay-GkU6J9GTXCe5g) 
+    :page_facing_up: [Dynamic Programming Beginner's Course](https://discuss.codechef.com/t/dynamic-programming-beginners-course/70936) contains problems and video tutorials.
 
 * #### Problemset :
 
@@ -271,12 +272,12 @@ The problems are majorly categorized into following topics for now:
     - [ ] [100+ codeforces problems - karansinghgit](https://github.com/karansinghgit/CodeForces-Ladders/blob/master/dynamicProgramming.md)
     - [ ] [1000+ problems on DP - A2OJ](http://a2oj.com/category?ID=33)
     - [ ] [Few other DP problems - A2OJ](https://a2oj.com/category?ID=758)
+    - [ ] [AtCoder DP Contest](https://atcoder.jp/contests/dp/tasks)
 
 
 
 
-
-<br> <hr> <br>
+<br> [Back To Problemset](#problemset) <hr> <br>
  
  
 
@@ -306,7 +307,7 @@ The problems are majorly categorized into following topics for now:
     - [ ] [20+ problems on Balanced BST - A2OJ](https://a2oj.com/category?ID=14)
     - [ ] [20+ problems on suffix array  A2OJ](https://a2oj.com/category?ID=44)
 
-<br> <hr> <br>
+<br> [Back To Problemset](#problemset) <hr> <br>
  
 
 
@@ -324,7 +325,7 @@ The problems are majorly categorized into following topics for now:
 
 
 
-<br> <hr> <br>
+<br> [Back To Problemset](#problemset) <hr> <br>
 
 
 
