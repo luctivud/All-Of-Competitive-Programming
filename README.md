@@ -44,15 +44,19 @@ The following practices should be kept in mind as these are also helpful :
 
 * Implementing the concepts after reading it. 
 
-* Reading Editorials even if you have solved the problem.
+* Reading Editorial even if you have solved the problem.
 
 * Reading and understanding other users' solution and implementing the same.
 
 * Elaborating the concepts on your own and thinking about the different ways any concept can be modified and then implementing the same.
 
-* Helping others in understanding the concepts you have learnt: This might seem like a waste of time but it really helps in clearing the concepts, and solving others' doubts make your concept crystal clear.
+* Helping others in understanding the concepts you have learnt so far: This might seem like a waste of time but solving others' doubts and making someone understand a concept will make your concept crystal clear.
 
-* Having a Good Sleep.
+* Having a Good Sleep is always necessary to start the next day with zeal.
+
+> Side Note: One should take competitive programming as a sport or hobby. If you really want to improve in cp then you should remove all the unnecessary burden of *placements, etc* from your mind. It will take some time and practice to master cp which can only be achieved when you start to enjoy solving the problems rather than treating them as a task. It is not necessary to extensively keep on solving the problems to improve your skills. Instead you can take a break, relax, and then get to the problem.
+
+> Tip for implementation: To write a good and bug-free code in one-go, you should write your code following the same steps as you would if you were teaching a newbie to do something. (Atleast that's how I've managed a good accuracy so far even in contests.) Your speed will tend to increase once it becomes an habit.
 
 
 
@@ -60,7 +64,7 @@ The following practices should be kept in mind as these are also helpful :
 
 ### Tools for Competitive Programming
 
-These are the following tools which may turn out to be of great use:
+Check out the following tools, these may turn out to be of great use:
 
 * [CP Tracker](http://cptracker.herokuapp.com/) : The current and future cp contests listed from various sites.
 

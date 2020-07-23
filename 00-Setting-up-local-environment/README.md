@@ -109,4 +109,4 @@ You can add your own snippets as for loading your template, adding a bfs code or
 
 - [VSCode Guide - Blog](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 
-- [Sublime Text 3 - VBlog](https://devdojo.com/episode/how-to-create-sublime-text-snippets)
+- [Sublime Text 3 - Video & Blog](https://devdojo.com/episode/how-to-create-sublime-text-snippets)

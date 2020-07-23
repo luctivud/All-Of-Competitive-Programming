@@ -1,4 +1,7 @@
 # Materials 
+
+Many of the seniors as well good competitive coders advice to not waste any money on the courses which are designed for beginners. It is always easy to start cp on your own and be good in it. However you can choose to have a good certification on Data Structures and ALgorithms offered by [Codechef](https://www.codechef.com/certification/data-structures-and-algorithms/about) or choose a course which aims at advanced data structures and algorithms.
+
 <br>
 
 ## Content :
@@ -22,6 +25,10 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 * [Getting into Competitive Coding by hyp0cr1t3](https://github.com/the-hyp0cr1t3/CC)
 
 * [Competitive Coding Implementation by Ashishgup](https://github.com/Ashishgup1/Competitive-Coding)
+
+* [Codechef Blog on Data Structures and Algorithms with 100+ Problems and Tutorial](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
+
+*[CP Algorithm](https://cp-algorithms.com/)
 
 
 <br> <hr> <br>
@@ -58,13 +65,18 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 ## Starters
 
 - [TopCoder-Introduction to Competitive Programming](https://www.topcoder.com/community/competitive-programming/tutorials)
+- [Starting CP - Errichto - Youtube](https://www.youtube.com/watch?v=xAeiXy8-9Y8)
+- [Must do Maths in CP - Gfg Blog](https://www.geeksforgeeks.org/math-in-competitive-programming/?ref=leftbar-rightbar)
+- [Codingblocks](https://blog.codingblocks.com/2019/start-with-competitive-programming/)
+- [Hackerearth - Codemonk](https://www.hackerearth.com/blog/developers/hackerearth-codemonk-v2-0/)
+= [Codeforces Blog](https://codeforces.com/blog/entry/49157)
 
 <br> <hr> <br>
 
 ## Maths
 
 * #### Blogs :
-* #### Vlogs :
+* #### Video Tutorials :
 * #### Problemset :
 
 
@@ -74,7 +86,7 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 ## Greedy
 
 * #### Blogs :
-* #### Vlogs :
+* #### Video Tutorials :
 * #### Problemset :
 
 
@@ -84,7 +96,7 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 ## Trees
 
 * #### Blogs :
-* #### Vlogs :
+* #### Video Tutorials :
 * #### Problemset :
 
 
@@ -98,13 +110,13 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
     - [Longest Path Problem - Wikipedia](https://en.wikipedia.org/wiki/Longest_path_problem)
     - [Graph Diameter - Mathworld](https://mathworld.wolfram.com/GraphDiameter.html)
 
-* #### Vlogs :
+* #### Video Tutorials :
 
 * #### Problemset :
 
-   - [international-open-olympiad-kpiopen-2013-round-1](https://codeforces.com/gym/100279/attachments/download/2025/20122013-international-open-olympiad-kpiopen-2013-round-1-en.pdf)
-
    - [Codeforces comment with 100+ graph problems](https://codeforces.com/blog/entry/55219?#comment-390897)
+
+   - [international-open-olympiad-kpiopen-2013-round-1](https://codeforces.com/gym/100279/attachments/download/2025/20122013-international-open-olympiad-kpiopen-2013-round-1-en.pdf)
 
    - [LeetCode Graph Related Problems](https://leetcode.com/list/x1vj23fh/)
 
@@ -178,7 +190,7 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 ## Dynamic Programming
 
 * #### Blogs :
-* #### Vlogs :
+* #### Video Tutorials :
 * #### Problemset :
     - [100+ LeetCode problems on DP](https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions)
 
@@ -189,7 +201,7 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 ## Other
 
 * #### Blogs :
-* #### Vlogs :
+* #### Video Tutorials :
 * #### Problemset :
     - [20+ leetcode problems on Sliding Window](https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions)
 
