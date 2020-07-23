@@ -1,16 +1,40 @@
-# Materials 
+# CP Material
 
 Many of the seniors as well good competitive coders advice to not waste any money on the courses which are designed for beginners. It is always easy to start cp on your own and be good at it. However you can choose to have a good certification on Data Structures and ALgorithms offered by [Codechef](https://www.codechef.com/certification/data-structures-and-algorithms/about) or choose a course which aims at advanced data structures and algorithms.
 
+
+
 <br>
 
+
+
 ## Content :
+
+* [Books](#books)
+
 * [Informative Blogs](#some-good-and-informative-blogs-)
-* [Books](#books-and-other-long-reading-materials-)
+
 * [Problemset](#Problemset)
 
 
+
 <br> <hr> <br>
+
+
+
+## Books:
+
+* Check out [this](https://github.com/lnishan/awesome-competitive-programming#books-for-algorithms) section for a long list of books.
+
+* I prefer to have [Competitive Programmers Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf) and [Introduction To Algorithms by CLRS](https://web.iiit.ac.in/~pratik.kamble/storage/Algorithms/Cormen_Algorithms_3rd.pdf) as mandatory. 
+
+> Note: The best time to read the topics in any book is either in the morning or in the evening to grasp everything. 
+
+
+
+
+<br> <hr> <br>
+
 
 
 ## Some good and informative blogs :
@@ -20,10 +44,6 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 * [ACM-ICPC Preparation Repository by BedirT](https://github.com/BedirT/ACM-ICPC-Preparation) : The curriculum and schedule one needs to follow to learn data structures and algorithms for ICPC.
 
 * [Getting into Competitive Coding by hyp0cr1t3](https://github.com/the-hyp0cr1t3/CC) : This repo is best for starting cp. It contains everything you need to master cp from basic setup to data structures along with decent problemset. Make sure to check the tips and tricks section.
-
-* [CP Algorithm](https://cp-algorithms.com/) : This online project is the English translation of a popular [russian site](http://e-maxx.ru/algo) containing descriptions of many algorithms and data structures especially popular in field of competitive programming and practice problems.
-
-* [Codechef Blog on Data Structures and Algorithms with 100+ Problems and Tutorial](https://discuss.codechef.com/t/data-structures-and-algorithms/6599) : This blog has tutorials and practice problems for most of the data structures and algorithms that one can come across.
  
 * [Awesome Competitive Programming by lnishan](https://github.com/lnishan/awesome-competitive-programming) : The encyclopedia of cp. It contains in-depth analysis as well as topic wise practice problems. Probably more than one can ask for.
 
@@ -32,74 +52,99 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 * [OEIS](https://oeis.org/) : who doesn't love integer sequences? Well everyone should.
 
 
-<br> <hr> <br>
 
 
-## Books and Other Long Reading Materials :
-
-* Check out [this](https://github.com/lnishan/awesome-competitive-programming#books-for-algorithms) section for a long list of books.
-
-* I prefer to have [Competitive Programmers Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf) and [Introduction To Algorithms by CLRS](https://web.iiit.ac.in/~pratik.kamble/storage/Algorithms/Cormen_Algorithms_3rd.pdf) as mandatory. 
-
-> Note: The best time to read the topics in any book is either in the morning or in the evening to grasp everything. 
 
 
 <br> <hr> <br>
+
+
+
+
+
 
 ## Problemset
 
-The problems are broadly categorized into following topics for now:
+The problems are majorly categorized into following topics for now:
 
-* [Maths](#Maths)
+* [Beginners](#Beginners)
 
-* [Greedy](#Greedy)
+* [Intermediate](#intermediate)
 
-* [Trees](#Trees)
+
+<br> <hr> <br>
+
+### Beginners
+
+
+* **Start :**
+
+    - [TopCoder-Introduction to Competitive Programming](https://www.topcoder.com/community/competitive-programming/tutorials)
+
+    - [Starting CP - Errichto - Youtube](https://www.youtube.com/watch?v=xAeiXy8-9Y8)
+
+    - [Codingblocks](https://blog.codingblocks.com/2019/start-with-competitive-programming/)
+
+    - [Codeforces Blog](https://codeforces.com/blog/entry/49157)
+
+
+* **Train :**
+
+    - [Must do Maths in CP - Gfg Blog](https://www.geeksforgeeks.org/math-in-competitive-programming/?ref=leftbar-rightbar)
+
+    - [Hackerearth - Codemonk](https://www.hackerearth.com/blog/developers/hackerearth-codemonk-v2-0/)
+
+    - [Training Roadmap for newcomers - cf](https://codeforces.com/blog/entry/65133)
+
+    - [Arabic CP](https://github.com/mostafa-saad/ArabicCompetitiveProgramming/) and the [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643) as well as [Supervision Template](https://docs.google.com/spreadsheets/d/1QUegTqKnVtdejCwttYFXHeOQs6Q5nmAT77sxWh3qYMc/edit#gid=2139527441).
+
+    - [20+ leetcode problems on Sliding Window](https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions)
+
+
+
+* **Solve :**
+
+    #### Ladders :
+
+    - [CSES Problemset](https://codeforces.com/blog/entry/15547)
+
+    - [A2OJ Ladders](https://a2oj.com/ladders)
+
+    - [CodeForces-Ladders with updated problemset](https://github.com/karansinghgit/CodeForces-Ladders)
+
+
+* **Bonus :**
+
+    - [Simple Trick to detect integer overflow - codechef discuss](https://discuss.codechef.com/t/simple-trick-to-detect-integer-overflow-c-c/54373)
+
+    - [Catching silly mistakes with GCC](https://codeforces.com/blog/entry/15547)
+
+
+
+
+### Intermediate
+
+Solving the beginner level problems from the above resources will be enough to get a sound knowledge of basic Maths, Greedy, AdHoc and other constructive problems and their approach.
+
+For Data Structures and Algorithms, consider: 
+
+* [Codechef Blog on Data Structures and Algorithms with 100+ Problems and Tutorial](https://discuss.codechef.com/t/data-structures-and-algorithms/6599) : This blog has tutorials and practice problems for most of the data structures and algorithms that one can come across.
+
+* [CP Algorithm](https://cp-algorithms.com/) : This online project is the English translation of a popular [russian site](http://e-maxx.ru/algo) containing descriptions of many algorithms and data structures especially popular in field of competitive programming and practice problems.
+
+
+
+**Content**
 
 * [Graphs](#Graphs)
 
 * [Dynamic Programming](#Dynamic-Programming)
 
+* [Trees](#Trees)
+
 * [Other](#Other)
 
-<br> <hr> <br>
 
-## Starters
-
-- [TopCoder-Introduction to Competitive Programming](https://www.topcoder.com/community/competitive-programming/tutorials)
-- [Starting CP - Errichto - Youtube](https://www.youtube.com/watch?v=xAeiXy8-9Y8)
-- [Must do Maths in CP - Gfg Blog](https://www.geeksforgeeks.org/math-in-competitive-programming/?ref=leftbar-rightbar)
-- [Codingblocks](https://blog.codingblocks.com/2019/start-with-competitive-programming/)
-- [Hackerearth - Codemonk](https://www.hackerearth.com/blog/developers/hackerearth-codemonk-v2-0/)
-= [Codeforces Blog](https://codeforces.com/blog/entry/49157)
-
-<br> <hr> <br>
-
-## Maths
-
-* #### Blogs :
-* #### Video Tutorials :
-* #### Problemset :
-
-
-<br> <hr> <br>
- 
- 
-## Greedy
-
-* #### Blogs :
-* #### Video Tutorials :
-* #### Problemset :
-
-
-<br> <hr> <br>
- 
- 
-## Trees
-
-* #### Blogs :
-* #### Video Tutorials :
-* #### Problemset :
 
 
 <br> <hr> <br>
@@ -188,6 +233,10 @@ The problems are broadly categorized into following topics for now:
 
 <br> <hr> <br>
  
+
+
+
+
  
 ## Dynamic Programming
 
@@ -197,17 +246,45 @@ The problems are broadly categorized into following topics for now:
     - [100+ LeetCode problems on DP](https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions)
 
 
+
+
+
 <br> <hr> <br>
  
  
-## Other
+
+
+
+## Trees
 
 * #### Blogs :
 * #### Video Tutorials :
 * #### Problemset :
-    - [20+ leetcode problems on Sliding Window](https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions)
+
+
+
+
+
+<br> <hr> <br>
+ 
+
+
+
+
+ 
+## Other
+
+* #### Blogs :
+   
+* #### Video Tutorials :
+* #### Problemset :
+
+
 
 
 <br> <hr> <br>
 
-> Note: There's a whole lot of problems still to be added. Any help is most welcomed.
+
+
+
+> Note: There's a whole lot of problems still to be added. Any help will be appreciated.
