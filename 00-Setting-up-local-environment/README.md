@@ -1,6 +1,6 @@
 # Setting up Competitive Programming on Local Machine :
 
-## Content :
+#### Content
 
 - [Benefits](#Benefits)
 
@@ -105,7 +105,7 @@ This editor is purposely designed for CP and Codeforces. Easy to use and many in
 
 <br> <hr> <br>
 
-### Snippets
+## Snippets
 
 Snippets are the cool features offered by the text editors through which you can add a bunch of code just by a few taps. 
 

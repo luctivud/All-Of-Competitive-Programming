@@ -8,7 +8,7 @@ Many of the seniors as well good competitive coders advice to not waste any mone
 
 
 
-#### Content :
+#### Content
 
 * [Books](#books)
 
@@ -142,6 +142,8 @@ The problemset is divided into two broad categories based on beginner or interme
 
 ### Intermediate
 
+<br>
+
 Solving the beginner level problems from the above resources will be enough to get a sound knowledge of basic Maths, Greedy, AdHoc and other constructive problems and their approach.
 
 For Data Structures and Algorithms, consider: 
@@ -198,6 +200,8 @@ The problems are majorly categorized into following topics for now:
    - [ ] [international-open-olympiad-kpiopen-2013-round-1](https://codeforces.com/gym/100279/attachments/download/2025/20122013-international-open-olympiad-kpiopen-2013-round-1-en.pdf)
 
    - [ ] [LeetCode Graph Related Problems](https://leetcode.com/list/x1vj23fh/)
+
+   - [ ] [500+ Problems on BFS/DFS/Dijkshtra - A2OJ](https://a2oj.com/category?ID=13)
 
 
    **IARCS**
@@ -301,6 +305,7 @@ The problems are majorly categorized into following topics for now:
 
     - [ ] [AtCoder DP Contest](https://atcoder.jp/contests/dp/tasks)
 
+    - [ ] [30+ Non-Classical Dynamic Programming problems - A2OJ](https://a2oj.com/category?ID=126)
 
 
 
@@ -373,7 +378,7 @@ The problems are majorly categorized into following topics for now:
 
 - [ ] [Matrix Expo - Problems - Mashup](https://codeforces.com/gym/102644)
 
-
+- [ ] [90+ problems on matrix expo - A2OJ](https://a2oj.com/category?ID=32)
 
 
 
