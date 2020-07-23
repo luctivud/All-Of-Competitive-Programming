@@ -1,13 +1,13 @@
 # Materials 
 
-Many of the seniors as well good competitive coders advice to not waste any money on the courses which are designed for beginners. It is always easy to start cp on your own and be good in it. However you can choose to have a good certification on Data Structures and ALgorithms offered by [Codechef](https://www.codechef.com/certification/data-structures-and-algorithms/about) or choose a course which aims at advanced data structures and algorithms.
+Many of the seniors as well good competitive coders advice to not waste any money on the courses which are designed for beginners. It is always easy to start cp on your own and be good at it. However you can choose to have a good certification on Data Structures and ALgorithms offered by [Codechef](https://www.codechef.com/certification/data-structures-and-algorithms/about) or choose a course which aims at advanced data structures and algorithms.
 
 <br>
 
 ## Content :
-* []()
-* []()
-* []()
+* [Informative Blogs](#Some-good-and-informative-blogs)
+* [Books](#Books-and-Other-Long-Reading-Materials)
+* [Problemset](#The-problems-are-broadly-categorized-into-following-topics-for-now)
 
 
 <br> <hr> <br>
@@ -17,18 +17,19 @@ Many of the seniors as well good competitive coders advice to not waste any mone
 
 Below is the encyclopedia of all that one needs to set up the schedule of cp and start away asap.
 
+* [ACM-ICPC Preparation Repository by BedirT](https://github.com/BedirT/ACM-ICPC-Preparation) : The curriculum and schedule one needs to follow to learn data structures and algorithms for ICPC.
 
-* [Awesome Competitive Programming by lnishan](https://github.com/lnishan/awesome-competitive-programming#sites-for-practice)
+* [Getting into Competitive Coding by hyp0cr1t3](https://github.com/the-hyp0cr1t3/CC) : This repo is best for starting cp. It contains everything you need to master cp from basic setup to data structures along with decent problemset. Make sure to check the tips and tricks section.
 
-* [ACM-ICPC Preparation Repository by BedirT](https://github.com/BedirT/ACM-ICPC-Preparation)
+* [CP Algorithm](https://cp-algorithms.com/) : This online project is the English translation of a popular [russian site](http://e-maxx.ru/algo) containing descriptions of many algorithms and data structures especially popular in field of competitive programming and practice problems.
 
-* [Getting into Competitive Coding by hyp0cr1t3](https://github.com/the-hyp0cr1t3/CC)
+* [Codechef Blog on Data Structures and Algorithms with 100+ Problems and Tutorial](https://discuss.codechef.com/t/data-structures-and-algorithms/6599) : This blog has tutorials and practice problems for most of the data structures and algorithms that one can come across.
+ 
+* [Awesome Competitive Programming by lnishan](https://github.com/lnishan/awesome-competitive-programming) : The encyclopedia of cp. It contains in-depth analysis as well as topic wise practice problems. Probably more than one can ask for.
 
-* [Competitive Coding Implementation by Ashishgup](https://github.com/Ashishgup1/Competitive-Coding)
+* [Competitive Coding Implementation by Ashishgup](https://github.com/Ashishgup1/Competitive-Coding) : Whenever you run into any problem, just check the implementation of Ashish Sir. His codes are easy to understand and beautifully formatted.
 
-* [Codechef Blog on Data Structures and Algorithms with 100+ Problems and Tutorial](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
-
-*[CP Algorithm](https://cp-algorithms.com/)
+* [OEIS](https://oeis.org/) : who doesn't love integer sequences? Well everyone should.
 
 
 <br> <hr> <br>
