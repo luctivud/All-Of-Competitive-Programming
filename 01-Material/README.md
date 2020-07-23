@@ -9,6 +9,7 @@ Many of the seniors as well good competitive coders advice to not waste any mone
 
 
 #### Content
+<br>
 
 * [Books](#books)
 
@@ -23,6 +24,7 @@ Many of the seniors as well good competitive coders advice to not waste any mone
 
 
 ## Books:
+<br>
 
 * Check out [this](https://github.com/lnishan/awesome-competitive-programming#books-for-algorithms) section for a long list of books.
 
@@ -38,6 +40,7 @@ Many of the seniors as well good competitive coders advice to not waste any mone
 
 
 ## Some good and informative blogs :
+<br>
 
 Below is the encyclopedia of all that one needs to set up the schedule of cp and start away asap.
 
@@ -66,6 +69,7 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 
 
 ## Problemset
+<br>
 
 The problemset is divided into two broad categories based on beginner or intermediate level of knowledge. 
 
@@ -161,10 +165,11 @@ For Data Structures and Algorithms, consider:
 <br> 
 
 
+>The problems are majorly categorized into following topics for now:
+<br>
 
 **Content**
-
-The problems are majorly categorized into following topics for now:
+<br>
 
 * [Graphs](#Graphs)
 
@@ -183,6 +188,7 @@ The problems are majorly categorized into following topics for now:
 
  
 ## Graphs
+<br>
 
 * #### Tutorial :
 
@@ -275,7 +281,7 @@ The problems are majorly categorized into following topics for now:
 
  
 ## Dynamic Programming
-
+<br>
 
 * #### Tutorial :
 
@@ -316,6 +322,7 @@ The problems are majorly categorized into following topics for now:
 
 
 ## Trees
+<br>
 
 * #### Tutorial :
 
@@ -367,6 +374,7 @@ The problems are majorly categorized into following topics for now:
 
  
 ## Other
+<br>
 
 :movie_camera: [Algorithm - SecondThread - Youtube](https://www.youtube.com/watch?v=cVBzMXYc4ss&list=PLZU0kmvryb_HZpDW2yfn-H-RxAu_ts6xq)
 
