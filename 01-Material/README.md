@@ -5,9 +5,9 @@ Many of the seniors as well good competitive coders advice to not waste any mone
 <br>
 
 ## Content :
-* [Informative Blogs](#Some-good-and-informative-blogs)
-* [Books](#Books-and-Other-Long-Reading-Materials)
-* [Problemset](#The-problems-are-broadly-categorized-into-following-topics-for-now)
+* [Informative Blogs](#some-good-and-informative-blogs-)
+* [Books](#books-and-other-long-reading-materials-)
+* [Problemset](#Problemset)
 
 
 <br> <hr> <br>
@@ -46,8 +46,9 @@ Below is the encyclopedia of all that one needs to set up the schedule of cp and
 
 <br> <hr> <br>
 
+## Problemset
 
-### The problems are broadly categorized into following topics for now:
+The problems are broadly categorized into following topics for now:
 
 * [Maths](#Maths)
 
