@@ -110,3 +110,9 @@ You can add your own snippets as for loading your template, adding a bfs code or
 - [VSCode Guide - Blog](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 
 - [Sublime Text 3 - Video & Blog](https://devdojo.com/episode/how-to-create-sublime-text-snippets)
+
+<br> <br>
+
+> Now you're all set to solve the [problems](https://github.com/luctivud/All-Of-Competitive-Programming/tree/master/01-Material).
+
+> I've mentioned all the popular setups. If you're facing an error in setting up it is easy to google it and find solution on stackoverflow. 

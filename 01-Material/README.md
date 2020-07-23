@@ -128,7 +128,13 @@ The problemset is divided into two broad categories based on beginner or interme
     :page_facing_up: [Catching silly mistakes with GCC](https://codeforces.com/blog/entry/15547) 
 
 
+
+
+
 <br> [Back To Problemset](#problemset) <hr> <br>
+
+
+
 
 ### Intermediate
 
@@ -286,26 +292,44 @@ The problems are majorly categorized into following topics for now:
 ## Trees
 
 * #### Tutorial :
+
     :page_facing_up: [Trees - hackerearth](https://www.hackerearth.com/practice/notes/trees/) 
+
     :page_facing_up: [Fenwick Tree - gfg](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/) 
+
     :page_facing_up: [Dynamic Programming on Trees - gfg](https://www.geeksforgeeks.org/dynamic-programming-trees-set-1/) 
+    
     :movie_camera: [Dynamic Programming on Trees - Aditya Verma - Youtube](https://www.youtube.com/playlist?list=PL_z_8CaSLPWfxJPz2-YKqL9gXWdgrhvdn) 
+
 
 * #### Problemset :
 
     - [ ] [Vplanet](https://www.vplanetcoding.com/course3)
+
     - [ ] [Binary and n-ary trees - Hackerearth](https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/)
+
     - [ ] [BST - hackerearth](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/)
+
     - [ ] [Heaps - hackerearth](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/)
+
     - [ ] [GERALD2 - codechef](http://www.codechef.com/NOV13/problems/GERALD2)
+
     - [ ] [GERALD07 - codechef](http://www.codechef.com/MARCH14/problems/GERALD07)
+
     - [ ] [FBCHEF - codechef](http://www.codechef.com/APRIL14/problems/FBCHEF)
+
     - [ ] [GERALD08 - codechef](http://www.codechef.com/APRIL14/problems/GERALD08)
+
     - [ ] [MLCHEF - codechef](https://www.codechef.com/SEPT13/problems/MLCHEF)
+    
     - [ ] [200+ Problems on Trees - A2OJ](https://a2oj.com/category?ID=89)
+
     - [ ] [150+ Problems on Segment Trees - A2OJ](https://a2oj.com/category?ID=25)
+
     - [ ] [20+ problems on Balanced BST - A2OJ](https://a2oj.com/category?ID=14)
+
     - [ ] [20+ problems on suffix array  A2OJ](https://a2oj.com/category?ID=44)
+
 
 <br> [Back To Problemset](#problemset) <hr> <br>
  
@@ -316,9 +340,14 @@ The problems are majorly categorized into following topics for now:
  
 ## Other
 
+:movie_camera: [Algorithm - SecondThread - Youtube](https://www.youtube.com/watch?v=cVBzMXYc4ss&list=PLZU0kmvryb_HZpDW2yfn-H-RxAu_ts6xq)
+
 :page_facing_up: [Matrix Exponentiation cf Blog](https://codeforces.com/blog/entry/67776) 
+
 :page_facing_up: [Matrix Expo - gfg](https://www.geeksforgeeks.org/matrix-exponentiation/) 
+
 :movie_camera: [Matrix Expo - Errichto - Youtube](https://www.youtube.com/watch?v=eMXNWcbw75E) 
+
 - [ ] [Matrix Expo - Problems - Mashup](https://codeforces.com/gym/102644)
 
 
