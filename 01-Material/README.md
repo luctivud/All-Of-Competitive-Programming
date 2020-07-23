@@ -112,7 +112,7 @@ The problemset is divided into two broad categories based on beginner or interme
 
     Do not copy paste solutions directly from editorial without implementing on your own.
 
-    - [CSES Problemset](https://codeforces.com/blog/entry/15547)
+    - [CSES Problemset](https://cses.fi/problemset/)
 
     - [A2OJ Ladders](https://a2oj.com/ladders)
 
