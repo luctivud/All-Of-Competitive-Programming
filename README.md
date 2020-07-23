@@ -108,6 +108,8 @@ Virtual Contests can also help in speed as these are simulation of real contest.
 <br> [Back to top](#All-Of-Competitive-Programming) <hr> <br>
 
 
+> You can now [set-up your working environment on your pc](https://github.com/luctivud/All-Of-Competitive-Programming/tree/master/00-Setting-up-local-environment) or move directly to the [CP Materials](https://github.com/luctivud/All-Of-Competitive-Programming/tree/master/01-Material).
+
 > This repo will keep on updating as new resources are found. 
 
 > Note : I don't claim any of the works to be mine. I have just curated them all at one place.
