@@ -82,13 +82,13 @@ Check out the following tools, these may turn out to be of great use:
 
 * [C List](https://clist.by/) : Similar to CP Tracker but it contains them all in a single list.
 
-* [StopStalk](https://www.stopstalk.com/) : A goto for analysing your daily performance and finding problems based on tags.
+- [ ] [StopStalk](https://www.stopstalk.com/) : A goto for analysing your daily performance and finding problems based on tags.
 
 * [Codeforces Visualiser](https://cfviz.netlify.app/) : You can track your progress on codeforces and can see the ratings of problems you have currently solved and a complete package for your codeforces profile.
 
-* [Kenkooo Atcoder](https://kenkoooo.com/atcoder) : A visualisation tool for AtCoder, here you can solve problems from different contests, see its ratings and many more. It is basically a problemset for AtCoder. 
+- [ ] [Kenkooo Atcoder](https://kenkoooo.com/atcoder) : A visualisation tool for AtCoder, here you can solve problems from different contests, see its ratings and many more. It is basically a problemset for AtCoder. 
 
-* [CodeDigger](http://codedigger.tech/practice/topicwise) : Solve codeforces problems based on tags and ladders.
+- [ ] [CodeDigger](http://codedigger.tech/practice/topicwise) : Solve codeforces problems based on tags and ladders.
 
 * [Contest Mania](https://contestmania.web.app/) : Past as well as Upcoming contests in a list.
 

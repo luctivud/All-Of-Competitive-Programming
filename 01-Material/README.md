@@ -83,26 +83,26 @@ The problemset is divided into two broad categories based on beginner or interme
 
 * **Start :**
 
-    - [TopCoder-Introduction to Competitive Programming](https://www.topcoder.com/community/competitive-programming/tutorials)
+    - [TopCoder-Introduction to Competitive Programming](https://www.topcoder.com/community/competitive-programming/tutorials) :page_facing_up:
 
     - [Starting CP - Errichto - Youtube](https://www.youtube.com/watch?v=xAeiXy8-9Y8)
 
-    - [Codingblocks](https://blog.codingblocks.com/2019/start-with-competitive-programming/)
+    - [Codingblocks](https://blog.codingblocks.com/2019/start-with-competitive-programming/)  :page_facing_up:
 
-    - [Codeforces Blog](https://codeforces.com/blog/entry/49157)
+    - [How to start CC - cf](https://codeforces.com/blog/entry/49157)  :page_facing_up:
 
 
 * **Train :**
 
-    - [Must do Maths in CP - Gfg Blog](https://www.geeksforgeeks.org/math-in-competitive-programming/?ref=leftbar-rightbar)
+    - [Must do Maths in CP - Gfg](https://www.geeksforgeeks.org/math-in-competitive-programming/?ref=leftbar-rightbar) :page_facing_up:
 
-    - [Hackerearth - Codemonk](https://www.hackerearth.com/blog/developers/hackerearth-codemonk-v2-0/)
+    - [Hackerearth - Codemonk](https://www.hackerearth.com/blog/developers/hackerearth-codemonk-v2-0/) :page_facing_up:
 
-    - [Training Roadmap for newcomers - cf](https://codeforces.com/blog/entry/65133)
+    - [Training Roadmap for newcomers - cf](https://codeforces.com/blog/entry/65133) :page_facing_up:
 
-    - [Arabic CP](https://github.com/mostafa-saad/ArabicCompetitiveProgramming/) and the [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643) as well as [Supervision Template](https://docs.google.com/spreadsheets/d/1QUegTqKnVtdejCwttYFXHeOQs6Q5nmAT77sxWh3qYMc/edit#gid=2139527441).
+    - [ ] [Arabic CP](https://github.com/mostafa-saad/ArabicCompetitiveProgramming/) and the [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643) as well as [Supervision Template](https://docs.google.com/spreadsheets/d/1QUegTqKnVtdejCwttYFXHeOQs6Q5nmAT77sxWh3qYMc/edit#gid=2139527441).
 
-    - [20+ leetcode problems on Sliding Window](https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions)
+    - [ ] [20+ leetcode problems on Sliding Window](https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions)
 
 
 
@@ -112,20 +112,20 @@ The problemset is divided into two broad categories based on beginner or interme
 
     Do not copy paste solutions directly from editorial without implementing on your own.
 
-    - [CSES Problemset](https://cses.fi/problemset/)
+    - [ ] [CSES Problemset](https://cses.fi/problemset/)
 
-    - [A2OJ Ladders](https://a2oj.com/ladders)
+    - [ ] [A2OJ Ladders](https://a2oj.com/ladders)
 
-    - [Another A2OJ ladder](https://earthshakira.github.io/a2oj-clientside/server/Categories.html) : Mirror
+    - [ ] [Another A2OJ ladder](https://earthshakira.github.io/a2oj-clientside/server/Categories.html) : Mirror
 
-    - [CodeForces-Ladders with updated problemset](https://github.com/karansinghgit/CodeForces-Ladders)
+    - [ ] [CodeForces-Ladders with updated problemset](https://github.com/karansinghgit/CodeForces-Ladders)
 
 
 * **Bonus :**
 
-    - [Simple Trick to detect integer overflow - codechef discuss](https://discuss.codechef.com/t/simple-trick-to-detect-integer-overflow-c-c/54373)
+    - [Simple Trick to detect integer overflow - codechef discuss](https://discuss.codechef.com/t/simple-trick-to-detect-integer-overflow-c-c/54373) :page_facing_up:
 
-    - [Catching silly mistakes with GCC](https://codeforces.com/blog/entry/15547)
+    - [Catching silly mistakes with GCC](https://codeforces.com/blog/entry/15547) :page_facing_up:
 
 
 <br>
@@ -136,15 +136,15 @@ Solving the beginner level problems from the above resources will be enough to g
 
 For Data Structures and Algorithms, consider: 
 
-* [Codechef Blog on Data Structures and Algorithms with 100+ Problems and Tutorial](https://discuss.codechef.com/t/data-structures-and-algorithms/6599) : This blog has tutorials and practice problems for most of the data structures and algorithms that one can come across.
+* [Codechef Blog on Data Structures and Algorithms with 100+ Problems and Tutorial](https://discuss.codechef.com/t/data-structures-and-algorithms/6599) :page_facing_up: : This blog has tutorials and practice problems for most of the data structures and algorithms that one can come across.
 
-* [CP Algorithm](https://cp-algorithms.com/) : This online project is the English translation of a popular [russian site](http://e-maxx.ru/algo) containing descriptions of many algorithms and data structures especially popular in field of competitive programming and practice problems.
+* [CP Algorithm](https://cp-algorithms.com/) :page_facing_up: : This online project is the English translation of a popular [russian site](http://e-maxx.ru/algo) containing descriptions of many algorithms and data structures especially popular in field of competitive programming and practice problems.
 
-- [Important Algorithms for Competitive Programming - Code of Geeks](https://codeofgeeks.com/important-algorithms-for-competitive-programming/)
+- [Important Algorithms for Competitive Programming - Code of Geeks](https://codeofgeeks.com/important-algorithms-for-competitive-programming/) :page_facing_up:
 
-* [vplanetcoding](https://www.vplanetcoding.com/course2) : Check out all the free courses.
+* [vplanetcoding](https://www.vplanetcoding.com/course2) :page_facing_up: : Check out all the free courses.
 
-* [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643) & [CSES Prolemset](https://cses.fi/problemset/) - (Again!)
+- [ ] [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643) & [CSES Prolemset](https://cses.fi/problemset/) - (Again!)
 
 <br> 
 
@@ -169,9 +169,9 @@ The problems are majorly categorized into following topics for now:
 ## Graphs
 
 * #### Tutorial :
-    - [CF-Center of graph](https://codeforces.com/blog/entry/17974)
-    - [Longest Path Problem - Wikipedia](https://en.wikipedia.org/wiki/Longest_path_problem)
-    - [Graph Diameter - Mathworld](https://mathworld.wolfram.com/GraphDiameter.html)
+    - [CF-Center of graph](https://codeforces.com/blog/entry/17974) :page_facing_up:
+    - [Longest Path Problem - Wikipedia](https://en.wikipedia.org/wiki/Longest_path_problem) :page_facing_up:
+    - [Graph Diameter - Mathworld](https://mathworld.wolfram.com/GraphDiameter.html) :page_facing_up:
 
 
 * #### Problemset :
@@ -258,18 +258,19 @@ The problems are majorly categorized into following topics for now:
 
 * #### Tutorial :
 
-    - [Hackerearth blog](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)
-    - [Codechef Tutorial and few problems](https://www.codechef.com/wiki/tutorial-dynamic-programming)
-    - [TutorialsPoint Blog](https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm)
+    - [Hackerearth](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/) :page_facing_up:
+    - [Codechef Tutorial and few problems](https://www.codechef.com/wiki/tutorial-dynamic-programming) :page_facing_up:
+    - [TutorialsPoint Blog](https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm) :page_facing_up:
     - [CS Dojo - Youtube](https://www.youtube.com/watch?v=vYquumk4nWw)
     - [Aditya Verma - Youtube](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) Check this one out.
+    - [CodeN Code - youtube](https://www.youtube.com/watch?v=AfE1nZjG5ZM&list=PL2q4fbVm1Ik71hmKyay-GkU6J9GTXCe5g)
 
 * #### Problemset :
 
-    - [100+ LeetCode problems - wh0ami](https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions)
-    - [100+ codeforces problems - karansinghgit](https://github.com/karansinghgit/CodeForces-Ladders/blob/master/dynamicProgramming.md)
-    - [1000+ problems on DP - A2OJ](http://a2oj.com/category?ID=33)
-    - [Few other DP problems - A2OJ](https://a2oj.com/category?ID=758)
+    - [ ] [100+ LeetCode problems - wh0ami](https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions)
+    - [ ] [100+ codeforces problems - karansinghgit](https://github.com/karansinghgit/CodeForces-Ladders/blob/master/dynamicProgramming.md)
+    - [ ] [1000+ problems on DP - A2OJ](http://a2oj.com/category?ID=33)
+    - [ ] [Few other DP problems - A2OJ](https://a2oj.com/category?ID=758)
 
 
 
@@ -284,26 +285,26 @@ The problems are majorly categorized into following topics for now:
 ## Trees
 
 * #### Tutorial :
-    - [Trees - hackerearth](https://www.hackerearth.com/practice/notes/trees/)
-    - [Fenwick Tree - gfg](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
-    - [Dynamic Programming on Trees - gfg](https://www.geeksforgeeks.org/dynamic-programming-trees-set-1/)
+    - [Trees - hackerearth](https://www.hackerearth.com/practice/notes/trees/) :page_facing_up:
+    - [Fenwick Tree - gfg](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/) :page_facing_up:
+    - [Dynamic Programming on Trees - gfg](https://www.geeksforgeeks.org/dynamic-programming-trees-set-1/) :page_facing_up:
     - [Dynamic Programming on Trees - Aditya Verma - Youtube](https://www.youtube.com/playlist?list=PL_z_8CaSLPWfxJPz2-YKqL9gXWdgrhvdn)
 
 * #### Problemset :
 
-    - [Vplanet](https://www.vplanetcoding.com/course3)
-    - [Binary and n-ary trees - Hackerearth](https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/)
-    - [BST - hackerearth](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/)
-    - [Heaps - hackerearth](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/)
-    - [GERALD2 - codechef](http://www.codechef.com/NOV13/problems/GERALD2)
-    - [GERALD07 - codechef](http://www.codechef.com/MARCH14/problems/GERALD07)
-    - [FBCHEF - codechef](http://www.codechef.com/APRIL14/problems/FBCHEF)
-    - [GERALD08 - codechef](http://www.codechef.com/APRIL14/problems/GERALD08)
-    - [MLCHEF - codechef](https://www.codechef.com/SEPT13/problems/MLCHEF)
-    - [200+ Problems on Trees - A2OJ](https://a2oj.com/category?ID=89)
-    - [150+ Problems on Segment Trees - A2OJ](https://a2oj.com/category?ID=25)
-    - [20+ problems on Balanced BST - A2OJ](https://a2oj.com/category?ID=14)
-    - [20+ problems on suffix array  A2OJ](https://a2oj.com/category?ID=44)
+    - [ ] [Vplanet](https://www.vplanetcoding.com/course3)
+    - [ ] [Binary and n-ary trees - Hackerearth](https://www.hackerearth.com/practice/data-structures/trees/binary-and-nary-trees/practice-problems/)
+    - [ ] [BST - hackerearth](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/)
+    - [ ] [Heaps - hackerearth](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/)
+    - [ ] [GERALD2 - codechef](http://www.codechef.com/NOV13/problems/GERALD2)
+    - [ ] [GERALD07 - codechef](http://www.codechef.com/MARCH14/problems/GERALD07)
+    - [ ] [FBCHEF - codechef](http://www.codechef.com/APRIL14/problems/FBCHEF)
+    - [ ] [GERALD08 - codechef](http://www.codechef.com/APRIL14/problems/GERALD08)
+    - [ ] [MLCHEF - codechef](https://www.codechef.com/SEPT13/problems/MLCHEF)
+    - [ ] [200+ Problems on Trees - A2OJ](https://a2oj.com/category?ID=89)
+    - [ ] [150+ Problems on Segment Trees - A2OJ](https://a2oj.com/category?ID=25)
+    - [ ] [20+ problems on Balanced BST - A2OJ](https://a2oj.com/category?ID=14)
+    - [ ] [20+ problems on suffix array  A2OJ](https://a2oj.com/category?ID=44)
 
 <br> <hr> <br>
  
@@ -314,10 +315,10 @@ The problems are majorly categorized into following topics for now:
  
 ## Other
 
-* [Matrix Exponentiation cf Blog](https://codeforces.com/blog/entry/67776)
-* [Matrix Expo - gfg](https://www.geeksforgeeks.org/matrix-exponentiation/)
+* [Matrix Exponentiation cf Blog](https://codeforces.com/blog/entry/67776) :page_facing_up:
+* [Matrix Expo - gfg](https://www.geeksforgeeks.org/matrix-exponentiation/) :page_facing_up:
 * [Matrix Expo - Errichto - Youtube](https://www.youtube.com/watch?v=eMXNWcbw75E)
-* [Matrix Expo - Problems - Mashup](https://codeforces.com/gym/102644)
+- [ ] [Matrix Expo - Problems - Mashup](https://codeforces.com/gym/102644)
 
 
 
