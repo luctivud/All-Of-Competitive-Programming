@@ -5,6 +5,7 @@ This repo contains all the resources a beginner needs to start competitive progr
 
 
 ### Contents-
+
 * [CP - Essentials](#The-essentials-that-every-competitive-programmer-should-have)
 * [Technique](#Technique)
 * [Tools](#Tools-for-Competitive-Programming)
@@ -35,6 +36,7 @@ This repo contains all the resources a beginner needs to start competitive progr
 
 
 ### Technique
+
 
 The everyday schedule that one follows should be very balanced and should not leave a person exhausted in the end. The most appropriate time of reading is said to be in the morning itself and a practice which involves heavy mental exercise should be done at night.
 
@@ -90,6 +92,7 @@ The following practices should be kept in mind as these are also helpful :
 
 ### Tools for Competitive Programming
 
+
 Check out the following tools, these may turn out to be of great use:
 
 * [CP Tracker](http://cptracker.herokuapp.com/) : The current and future cp contests listed from various sites.
@@ -122,6 +125,8 @@ Check out the following tools, these may turn out to be of great use:
 
 
 ### Speed
+
+
 
 Speed plays a very important role in perfoming well during the live contests. 
 
