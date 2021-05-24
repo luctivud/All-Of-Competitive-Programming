@@ -50,6 +50,8 @@ for each i from _1_ to _N-1_,  &nbsp; **A<sub>i</sub> &nbsp; < &nbsp; A<sub>i+1<
 
 Now we shall work on simplifying it further and deducing a general formula for all terms, 
 
+- **A<sub>i</sub> &nbsp; < &nbsp; A<sub>i+1</sub>**
+
 - **A<sub>i</sub> &nbsp; &le; &nbsp; A<sub>i+1</sub> - 1**
 
 - Subtracting i from both sides, 
@@ -63,7 +65,7 @@ _or_
 This is the general formulation which should work for all indices in range [1, N].
 i.e.  
 
-The sequence represented by (A<sub>i</sub>-i) &nbsp; &forall; &nbsp; i &isin; [1, N] should be a **non decreasing sequence**.
+The sequence represented by **(A<sub>i</sub>-i)** &nbsp; &forall; &nbsp; i &isin; [1, N] should be a **non decreasing sequence**.
 
 To achieve this we take use of dynamic programming and brute force our way to make the subsequent array element equal to the previous one if not or leaving it as it is depending on the previous dp state. 
 
