@@ -1,0 +1,31 @@
+<snippet>
+  <content><![CDATA[
+#include <bits/stdc++.h>
+#pragma GCC optimize "trapv"
+
+using namespace std;
+
+typedef long long int lld;
+
+signed main() {
+	
+	// Input - Output and optimization
+	
+    ios_base::sync_with_stdio(false); cin.tie(0);
+    cout.precision(10); cout << fixed;
+
+    #ifdef LUCTIVUD
+      freopen("/home/luctivud/CPPractice/Zinput.txt", "r", stdin);
+      freopen("/home/luctivud/CPPractice/Zoutput.txt", "w", stdout);
+    #endif
+
+    $0
+    return 0;
+}
+
+]]></content>
+  <tabTrigger>snip-basic-template</tabTrigger>
+  <description>Basic Template for c++</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope> source.c++ </scope>
+</snippet>

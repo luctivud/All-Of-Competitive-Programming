@@ -1,0 +1,52 @@
+<snippet>
+  <content><![CDATA[
+
+lld EE(lld a, lld b, lld *x, lld *y) {
+	if (a == 0) {
+		*x = 0, *y = 1;
+		return b;
+	}
+
+	lld x1, y1;
+	lld gcd = EE(b % a, a, &x1, &y1);
+
+	*x = y1 - (b / a) * x1;
+	*y = x1;
+
+	return gcd;
+}
+
+
+lld inverse(lld a, lld m) {
+	lld x, y;
+	EE(a, m, &x, &y);
+	if (x < 0) x += m;
+	return x;
+}
+
+lld choose(lld n, lld k) {
+	lld i;
+
+	lld num = 1, den = 1;
+
+	for (i = 2; i <= k; i++) {
+		den *= i;
+		den %= mod;
+	}
+
+	for (i = n - k + 1; i <= n; i++) {
+		num *= i;
+		num %= mod;
+	}
+
+	i = num * inverse(den, mod);
+	i %= mod;
+	return i;
+}
+
+]]></content>
+  <tabTrigger>snip-ncr-binomial</tabTrigger>
+  <description>NCR on demand</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope >source.c++</scope >
+</snippet>

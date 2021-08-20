@@ -1,0 +1,48 @@
+<snippet>
+  <content><![CDATA[
+
+
+// find totient Value complexity O(sqrt(N))
+lld getPhiVal(lld n0n) {
+    lld result = n0n;
+    for (lld i = 2; i * i <= n0n; i++) {
+        if (n0n % i == 0) {
+            while (n0n % i == 0)
+                n0n /= i;
+            result -= result / i;
+        }
+    }
+    if (n0n > 1)
+        result -= result / n0n;
+    return result;
+}
+
+vector<lld> phiVal;
+// precompute_phiVal complexity O(N.log(log(N)))
+void precompute_phiVal(lld n0n) {
+    phiVal.resize(n0n+1);
+    phiVal[0] = 0;
+    phiVal[1] = 1;
+    for (lld i = 2; i <= n0n; i++)
+        phiVal[i] = i;
+
+    for (lld i = 2; i <= n0n; i++) {
+        if (phiVal[i] == i) {
+            for (lld j = i; j <= n0n; j += i)
+                phiVal[j] -= phiVal[j] / i;
+        }
+    }
+}
+
+// precompute_phiVal(n);
+
+
+]]></content>
+  <tabTrigger>snip-totient-euler-phi</tabTrigger>
+  <description>Euler totient Phi</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.c++</scope>
+</snippet>
+
+
+

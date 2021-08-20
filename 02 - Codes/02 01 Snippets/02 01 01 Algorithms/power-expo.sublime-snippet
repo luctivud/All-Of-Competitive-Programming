@@ -1,0 +1,28 @@
+<snippet>
+  <content><![CDATA[
+
+
+lld power(lld x, lld y) {
+	lld res = 1;
+
+	x = x % MOD;
+
+	if (x == 0) return 0;
+
+	while (y > 0)  {
+		if (y & 1)
+			res = (res * x) % MOD;
+
+		y = y >> 1; 
+		x = (x * x) % MOD;
+	}
+	return res;
+}
+
+
+]]></content>
+  <tabTrigger>snip-power</tabTrigger>
+  <description>power exponentiation</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope >source.c++</scope >
+</snippet>

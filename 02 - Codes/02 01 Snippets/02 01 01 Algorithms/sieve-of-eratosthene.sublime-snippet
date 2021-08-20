@@ -1,0 +1,34 @@
+<snippet>
+  <content><![CDATA[
+
+/* This part should be outside the main in global paradigm. */
+
+const lld MAXN = (lld)(1e5) + 1ll; // Maximum sieve upto
+vector<bool> isPrime(MAXN, true); // Temp vector for sieve result
+vector<lld> prime_numbers; // vector of primes
+
+void sieve() {
+	isPrime[0] = isPrime[1] = false;
+	prime_numbers.push_back(2);
+	for (lld i=4; i< MAXN; i+=2)
+		isPrime[i] = false;
+	for (lld i = 3; i < MAXN; i+=2) {
+		if (isPrime[i]) {
+			prime_numbers.push_back(i); // remove if not necessary
+			for (lld j = 2 * i; j < MAXN; j += i) {
+				isPrime[j] = false;
+			}
+		}
+	}
+}
+
+/* This should be called inside main. */
+sieve();	// function call in main
+
+
+]]></content>
+  <tabTrigger>snip-sieve</tabTrigger>
+  <description>sieve</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope >source.c++</scope >
+</snippet>

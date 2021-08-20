@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+
+// sab ulta rkhna >>
+class ${1:cmp} {
+public:
+    bool operator() (${2:const pair <lld, lld>} &a, ${2:const pair <lld, lld>} &b) {
+        return ${3:a.s2 > b.s2};
+    }
+};
+]]></content>
+  <tabTrigger>snip-cmp-pq</tabTrigger>
+  <description>cmp for priority queue</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope >source.c++ </scope >
+</snippet>

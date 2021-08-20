@@ -1,0 +1,43 @@
+<snippet>
+  <content><![CDATA[
+/*          D S U         */
+
+void makeSet(lld n, vector<lld> &par3t, vector<lld> &ran4k) {
+    iota(all(par3t), 0ll);
+}
+
+lld find_repr(lld x, vector<lld> &par3t, vector<lld> &ran4k) {
+    if (x != par3t[x])
+        par3t[x] = find_repr(par3t[x], par3t, ran4k);
+    return par3t[x];
+}
+
+void Union(lld x, lld y, vector<lld> &par3t, vector<lld> &ran4k) {
+    x = find_repr(x, par3t, ran4k);
+    y = find_repr(y, par3t, ran4k);
+
+    if (x == y) return;
+
+    if (ran4k[x] < ran4k[y]) { 
+        par3t[x] = y; 
+    } else if (ran4k[x] > ran4k[y]) { 
+        par3t[y] = x; 
+    } else { 
+        par3t[y] = x; 
+        ran4k[x] = ran4k[x] + 1; 
+    } 
+    return;
+}
+
+
+
+    // create par3t and ran4k at the place.
+    vector<lld> par3t(n, 0);
+    vector<lld> ran4k(n, 0);
+    makeSet(n, par3t, ran4k);
+]]></content>
+  <tabTrigger>snip-dsu</tabTrigger>
+  <description>dsu using path compression</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope >source.c++</scope >
+</snippet>

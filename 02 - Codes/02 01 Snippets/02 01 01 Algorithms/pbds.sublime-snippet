@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+using namespace __gnu_pbds;
+
+template <typename T> using PBSET = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>;
+
+/*  
+    .insert(el) - set hai!
+    .find_by_order(3) - returns an iterator to the k-th largest element (counting from zero)
+    .order_of_key(6) - the number of items in a set that are strictly smaller than our item
+*/
+
+]]></content>
+  <tabTrigger>snip-pbds</tabTrigger>
+  <description>pbds</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope >source.c++</scope >
+</snippet>

@@ -1,0 +1,42 @@
+<snippet>
+  <content><![CDATA[
+
+lld n, m;
+
+bool bpm(vector<vector<bool >> graph, lld u, vector<bool> &visited, vector<lld> &matchR) {
+	for (lld v = 0; v < n; v++) {
+		if (graph[u][v] and !visited[v]) {
+			visited[v] = true;
+			if (matchR[v] < 0 || bpm(graph, matchR[v], visited, matchR)) {
+				matchR[v] = u;
+				return true;
+			}
+		}
+	}
+	return false;
+}
+
+
+lld maxBPM(vector<vector<bool >> graph, vector<lld> &matchR) {
+	lld result = 0;
+	for (lld u = 0; u < m; u++) {
+		vector<bool> visited(n, 0);
+		if (bpm(graph, u, visited, matchR))
+			result++;
+	}
+	return result;
+}
+
+
+// This should be in main // 0.indexed
+	n = 6, m = 6; 
+	// for i -> m then for j -> n
+	vector<vector<bool >> graph(m, vector<bool>(n, false));
+	vector<lld> matchR(n, -1);
+	maxBPM(graph, matchR);
+]]></content>
+  <tabTrigger>snip-bipartite-matching</tabTrigger>
+  <description>Max B M</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope >source.c++</scope >
+</snippet>
