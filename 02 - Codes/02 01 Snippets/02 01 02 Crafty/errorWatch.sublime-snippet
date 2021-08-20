@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[
+
+#define error(args...) { string _s = #args; replace(_s.begin(), _s.end(), ',', ' '); stringstream _ss(_s); istream_iterator<string> _it(_ss); huehue(_it, args); cout << "\n";}
+
+void huehue(istream_iterator<string> it) {}
+template<typename T, typename... Args>
+void huehue(istream_iterator<string> it, T a, Args... args) {
+    cout << *it << " = " << a << ", ";
+    huehue(++it, args...);
+}
+
+]]></content>
+  <tabTrigger>snip-error-watch</tabTrigger>
+  <description>Error Watch</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.c++</scope>
+</snippet>
+
+
+

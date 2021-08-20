@@ -1,0 +1,35 @@
+<snippet>
+  <content><![CDATA[
+
+void Read() { return; }
+void Print() { return; }
+void Println() { cout << "\n"; return; }
+template<class T> T Read(T& x)   { cin >> x; return x; }
+template<class T> void Print(T a)   { cout << a; }
+template<class T> void Println(T a) { cout << a << "\n"; }
+
+template<class T> void Read(vector<T> &arr)   { EACH(i, arr) cin >> (i); }
+template<class T> void Print(vector<T> arr)   { EACH(i, arr) {cout << i << " ";} }
+template<class T> void Println(vector<T> arr) { EACH(i, arr) {cout << i << " ";} cout << "\n"; }
+
+template<class T> void Read(vector<vector<T>> &arr)   { EACH(i, arr) Read(i); }
+template<class T> void Print(vector<vector<T>> arr)   { EACH(i, arr) Println(i); }
+template<class T> void Println(vector<vector<T>> arr) { EACH(i, arr) Println(i); }
+
+template<typename T, typename... Args> void Read(vector<T> &arr, Args &... args)   { Read(arr); Read(args...);}
+template<typename T, typename... Args> void Read(vector<vector<T>> &arr, Args &... args)   { Read(arr); Read(args...);}
+template<typename T, typename... Args> void Read(T &a, Args &... args) { cin >> (a); Read(args...); }
+template<typename T, typename... Args> void Print(vector<T> &arr, Args &... args)   { Print(arr); Print(args...);}
+template<typename T, typename... Args> void Print(T a, Args... args) { cout << a << " "; Print(args...); };
+template<typename T, typename... Args> void Println(vector<T> &arr, Args &... args)   { Print(arr); Println(args...);}
+template<typename T, typename... Args> void Println(T a, Args... args) { cout << a << " "; Println(args...); };
+
+]]></content>
+  <tabTrigger>snip-read-template</tabTrigger>
+  <description>Read-Print-Template</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.c++</scope>
+</snippet>
+
+
+

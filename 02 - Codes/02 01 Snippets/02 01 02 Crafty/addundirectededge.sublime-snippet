@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+
+void add_undirected_edge(lld a, lld b, vector<lld> adj[]) {
+    adj[a].push_back(b);
+    adj[b].push_back(a);
+    return;
+}
+
+
+]]></content>
+  <tabTrigger>snip-add-undirected-edge</tabTrigger>
+  <description>Add Undirected Edge</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.c++</scope>
+</snippet>
+
+
+

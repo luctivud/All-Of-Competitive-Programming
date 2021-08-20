@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+    auto S34t = chrono:: high_resolution_clock::now(); 
+    auto S34p = chrono::high_resolution_clock::now(); 
+    auto D34n = chrono::duration_cast<chrono::microseconds>(S34p - S34t);
+    cout << "Time Elapsed: " << D34n.count() / (long double) 1e6 << " seconds" << endl; 
+
+]]></content>
+  <tabTrigger>snip-debug</tabTrigger>
+  <description>CP Template</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope >source.c++</scope >
+</snippet>
